@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-26 15:35+0000\n"
-"PO-Revision-Date: 2019-11-26 15:55\n"
+"PO-Revision-Date: 2019-11-27 09:31\n"
 "Last-Translator: Ulrich Huber (LittleHuba)\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -1452,7 +1452,7 @@ msgstr "Linie"
 
 #: ../src/util/DeviceListHelper.cpp:137
 msgid "tablet pad"
-msgstr ""
+msgstr "Tablet-Computer"
 
 #: ../src/undo/AddUndoAction.cpp:124 ../src/undo/DeleteUndoAction.cpp:118
 msgid "text"
