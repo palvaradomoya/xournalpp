@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-26 15:35+0000\n"
-"PO-Revision-Date: 2019-11-27 09:31\n"
+"PO-Revision-Date: 2019-11-30 22:46\n"
 "Last-Translator: Ulrich Huber (LittleHuba)\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -1452,7 +1452,7 @@ msgstr "Linie"
 
 #: ../src/util/DeviceListHelper.cpp:137
 msgid "tablet pad"
-msgstr "Tablet-Computer"
+msgstr "Stifttablett"
 
 #: ../src/undo/AddUndoAction.cpp:124 ../src/undo/DeleteUndoAction.cpp:118
 msgid "text"
@@ -1821,7 +1821,7 @@ msgstr "Rahmenfarbe der gewählten Seite und anderer Auswahlen"
 
 #: ../ui/about.glade:127
 msgid "Built on"
-msgstr ""
+msgstr "Kompiliert am"
 
 #: ../ui/settings.glade:1208
 msgid "Button 1"
