@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-26 15:35+0000\n"
-"PO-Revision-Date: 2019-11-30 22:46\n"
+"PO-Revision-Date: 2019-11-30 22:55\n"
 "Last-Translator: Ulrich Huber (LittleHuba)\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -538,7 +538,7 @@ msgstr "Schriftart"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:466
 msgid "Forward"
-msgstr "Weiterleiten"
+msgstr "Nächste Seite"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:407
 msgid "Go to first page"
@@ -1869,7 +1869,7 @@ msgstr "Standard Dateiname"
 
 #: ../ui/settings.glade:3955
 msgid "Default Seek Time (in seconds)"
-msgstr "Standard Suchzeit (in Sekunden)"
+msgstr "Standard Startzeit (in Sekunden)"
 
 #: ../ui/settings.glade:386
 msgid "Default name: "
