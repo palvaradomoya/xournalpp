@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-26 15:35+0000\n"
-"PO-Revision-Date: 2019-11-26 15:55\n"
+"PO-Revision-Date: 2019-12-04 21:45\n"
 "Last-Translator: Ulrich Huber (LittleHuba)\n"
 "Language-Team: Finnish\n"
 "Language: fi_FI\n"
@@ -326,7 +326,7 @@ msgstr "Leikkaa"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:442
 msgid "Default Tool"
-msgstr ""
+msgstr "Oletustyökalu"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:383
 #: ../src/undo/DeleteUndoAction.cpp:88
@@ -519,7 +519,7 @@ msgstr "Fontti"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:466
 msgid "Forward"
-msgstr ""
+msgstr "Eteenpäin"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:407
 msgid "Go to first page"
@@ -1562,7 +1562,7 @@ msgstr ""
 
 #: ../ui/settings.glade:3568
 msgid "<b>Default</b>"
-msgstr ""
+msgstr "<b>Oletus</b>"
 
 #: ../ui/exportSettings.glade:90
 msgid "<b>Document export settings</b>\n"
@@ -1847,7 +1847,7 @@ msgstr ""
 
 #: ../ui/settingsDeviceClassConfig.glade:41
 msgid "Disabled"
-msgstr ""
+msgstr "Pois käytöstä"
 
 #: ../ui/settings.glade:1496
 msgid "Disabling Method"
@@ -2060,11 +2060,11 @@ msgstr ""
 
 #: ../ui/settings.glade:3773
 msgid "Input Device"
-msgstr ""
+msgstr "Syöttölaite"
 
 #: ../ui/settings.glade:744
 msgid "Input Devices"
-msgstr ""
+msgstr "Syöttölaiteet"
 
 #: ../ui/settings.glade:869
 msgid "Input System"
@@ -2165,11 +2165,11 @@ msgstr ""
 
 #: ../ui/settings.glade:849
 msgid "Options"
-msgstr ""
+msgstr "Valinnat"
 
 #: ../ui/settings.glade:3796
 msgid "Output Device"
-msgstr ""
+msgstr "Tulostuslaite"
 
 #: ../ui/main.glade:1077
 msgid "P_revious annotated Page"
@@ -2760,7 +2760,7 @@ msgstr ""
 
 #: ../ui/pageTemplate.glade:37
 msgid "save to file"
-msgstr ""
+msgstr "tallenna tiedostoon"
 
 #: ../ui/main.glade:1514 ../ui/main.glade:1660 ../ui/main.glade:1769
 msgid "ver_y thick"
