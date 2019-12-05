@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-26 15:35+0000\n"
-"PO-Revision-Date: 2019-11-28 00:22\n"
+"POT-Creation-Date: 2019-12-05 00:39+0000\n"
+"PO-Revision-Date: 2019-12-05 00:46\n"
 "Last-Translator: Ulrich Huber (LittleHuba)\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -274,7 +274,7 @@ msgstr "Impossbile leggere il file toolbar.ini: {1}\n"
 msgid "Could not read image: {1}. Error message: {2}"
 msgstr "Impossibile leggere l'immagine: {1}. Messaggio d'errore: {2}"
 
-#: ../src/undo/UndoRedoHandler.cpp:146
+#: ../src/undo/UndoRedoHandler.cpp:163
 msgid "Could not redo \"{1}\"\n"
 "Something went wrong… Please write a bug report…"
 msgstr "Impossibile ripetere \"{1}\"\n"
@@ -300,7 +300,7 @@ msgstr "Impossibile salvare il file .tex: {1}"
 msgid "Could not start pdflatex: {1} (exit code: {2})"
 msgstr "Impossibile avviare pdflatex: {1} (codice di uscita: {2})"
 
-#: ../src/undo/UndoRedoHandler.cpp:114
+#: ../src/undo/UndoRedoHandler.cpp:131
 msgid "Could not undo \"{1}\"\n"
 "Something went wrong… Please write a bug report…"
 msgstr "Impossibile annullare \"{1}\"\n"
@@ -889,11 +889,11 @@ msgid "Red"
 msgstr "Rosso"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:373
-#: ../src/undo/UndoRedoHandler.cpp:244
+#: ../src/undo/UndoRedoHandler.cpp:261
 msgid "Redo"
 msgstr "Ripeti"
 
-#: ../src/undo/UndoRedoHandler.cpp:239
+#: ../src/undo/UndoRedoHandler.cpp:256
 msgid "Redo: "
 msgstr "Ripeti: "
 
@@ -1211,11 +1211,11 @@ msgid "Unable to play audio recording {1}"
 msgstr "Impossibile riprodurre la registrazione audio {1}"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:372
-#: ../src/undo/UndoRedoHandler.cpp:229
+#: ../src/undo/UndoRedoHandler.cpp:246
 msgid "Undo"
 msgstr "Annulla"
 
-#: ../src/undo/UndoRedoHandler.cpp:224
+#: ../src/undo/UndoRedoHandler.cpp:241
 msgid "Undo: "
 msgstr "Annulla: "
 
