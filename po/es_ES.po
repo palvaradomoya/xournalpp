@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-12-05 00:39+0000\n"
-"PO-Revision-Date: 2019-12-05 00:47\n"
+"POT-Creation-Date: 2019-12-07 23:14+0000\n"
+"PO-Revision-Date: 2019-12-07 23:16\n"
 "Last-Translator: Ulrich Huber (LittleHuba)\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -819,7 +819,7 @@ msgstr "PNG con fondo transparente"
 msgid "Page"
 msgstr "Página"
 
-#: ../src/gui/sidebar/previews/page/SidebarPreviewPages.cpp:61
+#: ../src/gui/sidebar/previews/page/SidebarPreviewPages.cpp:72
 msgid "Page Preview"
 msgstr "Previsualización de página"
 
