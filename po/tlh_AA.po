@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-12-05 00:39+0000\n"
-"PO-Revision-Date: 2019-12-05 00:46\n"
+"POT-Creation-Date: 2019-12-07 23:14+0000\n"
+"PO-Revision-Date: 2019-12-07 23:16\n"
 "Last-Translator: Ulrich Huber (LittleHuba)\n"
 "Language-Team: Klingon\n"
 "Language: tlh_AA\n"
@@ -796,7 +796,7 @@ msgstr ""
 msgid "Page"
 msgstr ""
 
-#: ../src/gui/sidebar/previews/page/SidebarPreviewPages.cpp:61
+#: ../src/gui/sidebar/previews/page/SidebarPreviewPages.cpp:72
 msgid "Page Preview"
 msgstr ""
 
