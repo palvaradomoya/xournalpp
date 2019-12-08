@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-07 23:14+0000\n"
-"PO-Revision-Date: 2019-12-07 23:16\n"
+"PO-Revision-Date: 2019-12-08 19:26\n"
 "Last-Translator: Ulrich Huber (LittleHuba)\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -2236,15 +2236,15 @@ msgstr ""
 
 #: ../ui/plugin.glade:14
 msgid "Plugin Manager"
-msgstr ""
+msgstr "外掛總管"
 
 #: ../ui/main.glade:1900
 msgid "Plugin _Manager"
-msgstr ""
+msgstr "外掛總管(_M)"
 
 #: ../ui/plugin.glade:121
 msgid "Plugin changes are only applied after Xournal++ was restarted"
-msgstr ""
+msgstr "修改後必須重新啟動 Xournal++"
 
 #: ../ui/main.glade:440
 msgid "Preferences"
@@ -2661,7 +2661,7 @@ msgstr "畫筆(_P)"
 
 #: ../ui/main.glade:1889
 msgid "_Plugin"
-msgstr ""
+msgstr "外掛(_P)"
 
 #: ../ui/main.glade:475
 msgid "_Presentation Mode"
