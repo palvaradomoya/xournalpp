@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-07 23:14+0000\n"
-"PO-Revision-Date: 2019-12-07 23:16\n"
+"PO-Revision-Date: 2019-12-09 14:50\n"
 "Last-Translator: Ulrich Huber (LittleHuba)\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -1452,7 +1452,7 @@ msgstr "trait"
 
 #: ../src/util/DeviceListHelper.cpp:137
 msgid "tablet pad"
-msgstr ""
+msgstr "pavé tactile"
 
 #: ../src/undo/AddUndoAction.cpp:124 ../src/undo/DeleteUndoAction.cpp:118
 msgid "text"
