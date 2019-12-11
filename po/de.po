@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-07 23:14+0000\n"
-"PO-Revision-Date: 2019-12-07 23:16\n"
+"PO-Revision-Date: 2019-12-11 21:25\n"
 "Last-Translator: Ulrich Huber (LittleHuba)\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -538,7 +538,7 @@ msgstr "Schriftart"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:466
 msgid "Forward"
-msgstr "Nächste Seite"
+msgstr "Weiter"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:407
 msgid "Go to first page"
