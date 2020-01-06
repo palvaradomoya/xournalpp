@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-29 19:41+0000\n"
-"PO-Revision-Date: 2020-01-06 20:04\n"
+"PO-Revision-Date: 2020-01-06 20:29\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -47,11 +47,16 @@ msgid "<span foreground='red' size='x-large'>Missing the needed UI file:\n"
 "  Not relative\n"
 "  Not in the Working Path\n"
 "  Not in {2}"
-msgstr ""
+msgstr "<span foreground='red' size='x-large'>Chybí požadovaný soubor uživatelského rozhraní:\n"
+"<b>{1}</b></span>\n"
+"Nemohl být nalezen na žádném místě.\n"
+"  Nebyl nalez v relativní cestě\n"
+"  Nebyl nalezen v pracovní cestě\n"
+"  Nebyl nalezen v {2}"
 
 #: ../src/control/XournalMain.cpp:273
 msgid "Absolute path for the audio files playback"
-msgstr ""
+msgstr "Absolutní cesta pro přehrávání zvukových souborů"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:399
 msgid "Add/Edit Tex"
@@ -63,11 +68,11 @@ msgstr "Všechny soubory"
 
 #: ../src/control/pagetype/PageTypeMenu.cpp:197
 msgid "Apply to all pages"
-msgstr ""
+msgstr "Použít na všechny stránky"
 
 #: ../src/control/pagetype/PageTypeMenu.cpp:188
 msgid "Apply to current page"
-msgstr ""
+msgstr "Použít na aktuální stránku"
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:27
 #: ../src/control/stockdlg/XojOpenDlg.cpp:112
@@ -80,7 +85,7 @@ msgstr "Atribut „{1}“ nemohl být načten jako double, hodnota je „{2}“"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:97
 msgid "Attribute \"{1}\" could not be parsed as double, the value is nullptr"
-msgstr ""
+msgstr "Atribut \"{1}\" nelze analyzovat jako double, hodnota je nullptr"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:121
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:140
@@ -89,16 +94,16 @@ msgstr "Atribut „{1}“ nemohl být načten jako int, hodnota je „{2}“"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:114
 msgid "Attribute \"{1}\" could not be parsed as int, the value is nullptr"
-msgstr ""
+msgstr "Atribut \"{1}\" nelze analyzovat jako int, hodnota je nullptr"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:159
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:179
 msgid "Attribute \"{1}\" could not be parsed as size_t, the value is \"{2}\""
-msgstr ""
+msgstr "Atribut \"{1}\" nelze analyzovat jako velikost_t, hodnota je \"{2}\""
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:152
 msgid "Attribute \"{1}\" could not be parsed as size_t, the value is nullptr"
-msgstr ""
+msgstr "Atribut \"{1}\" nelze analyzovat jako velikost _t, hodnota je nullptr"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:46
 msgid "Attribute color not set!"
@@ -107,7 +112,8 @@ msgstr "Atribut color není nastaven!"
 #: ../src/control/AudioController.cpp:92
 msgid "Audio folder not set! Recording won't work!\n"
 "Please set the recording folder under \"Preferences > Audio recording\""
-msgstr ""
+msgstr "Zvukový adresář nenastaven! Nahrávání nebude fungovat!\n"
+"Prosím nastavte nahrávací adresář v \"Nastavení > Nahrávání zvuku\""
 
 #: ../src/control/Control.cpp:242
 msgid "Autosave failed with an error: {1}"
@@ -157,7 +163,7 @@ msgstr "Změnit písmo"
 
 #: ../src/undo/FillUndoAction.cpp:79
 msgid "Change stroke fill"
-msgstr ""
+msgstr "Změnit výplň čáry"
 
 #: ../src/undo/SizeUndoAction.cpp:104
 msgid "Change stroke width"
@@ -191,58 +197,60 @@ msgstr "Nelze vytvořit zálohu! (Soubor byl vytvořen ve starší verzi Xournal
 
 #: ../src/util/Util.cpp:103
 msgid "Could not create folder: {1}"
-msgstr ""
+msgstr "Nelze vytvořit složku: {1}"
 
 #: ../src/control/LatexController.cpp:85
 msgid "Could not find kpsewhich in PATH; please install kpsewhich and put it on path."
-msgstr ""
+msgstr "Nelze najít kpsewhich v PATH; nainstalujte prosím kpsewhich a vložte ho na cestu."
 
 #: ../src/control/LatexController.cpp:70
 msgid "Could not find pdflatex in PATH.\n"
 "Please install pdflatex first and make sure it's in the PATH."
-msgstr ""
+msgstr "Nelze najít pdflatex v PATH.\n"
+"Nejprve prosím nainstalujte pdflatex a ujistěte se, že je v PATH."
 
 #: ../src/control/LatexController.cpp:89
 msgid "Could not find the LaTeX package 'standalone'.\n"
 "Please install standalone (found in texlive-latex-extra) and make sure it's accessible by your LaTeX installation."
-msgstr ""
+msgstr "Nepodařilo se najít balíček LaTeX 'standalone'.\n"
+"Prosím nainstalujte samostatný balíček (nalezený v texlive-latex-extra) a ujistěte se, že je dostupný při instalaci LaTeX."
 
 #: ../src/control/LatexController.cpp:386
 msgid "Could not load LaTeX PDF file"
-msgstr ""
+msgstr "Nelze načíst LaTeX PDF soubor"
 
 #: ../src/control/LatexController.cpp:371
 msgid "Could not load LaTeX PDF file, File Error: {1}"
-msgstr ""
+msgstr "Nelze načíst LaTeX PDF soubor, Chyba souboru: {1}"
 
 #: ../src/control/LatexController.cpp:378
 msgid "Could not load LaTeX PDF file: {1}"
-msgstr ""
+msgstr "Nelze načíst LaTeX PDF soubor: {1}"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:15
 msgid "Could not load pagetemplates.ini file"
-msgstr ""
+msgstr "Soubor pagetemplates.ini nelze načíst"
 
 #: ../src/control/xojfile/LoadHandler.cpp:773
 msgid "Could not open attachment: {1}. Error message: Could not read file"
-msgstr ""
+msgstr "Nelze otevřít přílohu: {1}. Chybová zpráva: Nelze přečíst soubor"
 
 #: ../src/control/xojfile/LoadHandler.cpp:782
 msgid "Could not open attachment: {1}. Error message: Could not write file"
-msgstr ""
+msgstr "Nelze otevřít přílohu: {1}. Chybová zpráva: Nelze zapsat do souboru"
 
 #: ../src/control/xojfile/LoadHandler.cpp:754
 #: ../src/control/xojfile/LoadHandler.cpp:1004
 #: ../src/control/xojfile/LoadHandler.cpp:1023
 msgid "Could not open attachment: {1}. Error message: No valid file size provided"
-msgstr ""
+msgstr "Nelze otevřít přílohu: {1}. Chybová zpráva: Není zadána platná velikost souboru"
 
 #: ../src/control/xojfile/LoadHandler.cpp:745
 #: ../src/control/xojfile/LoadHandler.cpp:761
 #: ../src/control/xojfile/LoadHandler.cpp:996
 #: ../src/control/xojfile/LoadHandler.cpp:1011
 msgid "Could not open attachment: {1}. Error message: {2}"
-msgstr ""
+msgstr "Nelze otevřít přílohu: {1}. Chybová zpráva: {2}"
 
 #: ../src/control/xojfile/LoadHandler.cpp:154
 msgid "Could not open file: \"{1}\""
@@ -273,23 +281,23 @@ msgstr "Nelze znovuprovést „{1}“\n"
 
 #: ../src/gui/dialog/toolbarCustomize/ToolbarAdapter.cpp:169
 msgid "Could not remove tool item from Toolbar {1} on position {2}"
-msgstr ""
+msgstr "Nástroj z panelu nástrojů {1} nelze odstranit z pozice {2}"
 
 #: ../src/gui/dialog/toolbarCustomize/ToolbarAdapter.cpp:164
 msgid "Could not remove tool item {1} from Toolbar {2} on position {3}"
-msgstr ""
+msgstr "Nástroj {1} z panelu nástrojů {2} nelze odstranit z pozice {3}"
 
 #: ../src/control/Control.cpp:233
 msgid "Could not rename autosave file from \"{1}\" to \"{2}\": {3}"
-msgstr ""
+msgstr "Nelze přejmenovat soubor automatického ukládání z \"{1}\" na \"{2}\": {3}"
 
 #: ../src/control/LatexController.cpp:109
 msgid "Could not save .tex file: {1}"
-msgstr ""
+msgstr "Soubor .tex nebylo možno uložit: {1}"
 
 #: ../src/control/LatexController.cpp:128
 msgid "Could not start pdflatex: {1} (exit code: {2})"
-msgstr ""
+msgstr "Nelze spustit pdflatex: {1} (exit code: {2})"
 
 #: ../src/undo/UndoRedoHandler.cpp:108
 msgid "Could not undo \"{1}\"\n"
@@ -307,7 +315,7 @@ msgstr "Nelze zapsat pozadí „{1}“. Přesto pokračujeme."
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:74
 msgid "Create new layer"
-msgstr ""
+msgstr "Vytvořit novou vrstvu"
 
 #: ../src/gui/dialog/FormatDialog.cpp:67
 msgid "Custom"
@@ -315,11 +323,11 @@ msgstr "Vlastní"
 
 #: ../src/control/jobs/CustomExportJob.cpp:18
 msgid "Custom Export"
-msgstr ""
+msgstr "Vlastní Export"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:354
 msgid "Customize Toolbars"
-msgstr ""
+msgstr "Upravit panely nástrojů"
 
 #: ../src/gui/dialog/ToolbarManageDialog.cpp:29
 msgid "Customized"
@@ -348,7 +356,7 @@ msgstr "Smazat aktuální stránku"
 
 #: ../src/control/XournalMain.cpp:161
 msgid "Delete file"
-msgstr ""
+msgstr "Smazat soubor"
 
 #: ../src/undo/RemoveLayerUndoAction.cpp:28
 msgid "Delete layer"
@@ -362,11 +370,13 @@ msgstr "Zahodit"
 msgid "Do not open Autosave files. They may will be overwritten!\n"
 "Copy the files to another folder.\n"
 "Files from Folder {1} cannot be opened."
-msgstr ""
+msgstr "Neotevírej soubory automatického ukládání. Mohou být přepsány!\n"
+"Zkopíruj soubory do jiné složky.\n"
+"Soubory ze složky {1} nelze otevřít."
 
 #: ../src/control/jobs/BaseExportJob.cpp:32
 msgid "Do not overwrite the background PDF! This will cause errors!"
-msgstr ""
+msgstr "Nepřepisuj PDF na pozadí! Toto způsobí chyby!"
 
 #: ../src/control/Control.cpp:2441
 msgid "Document file was removed."
@@ -374,7 +384,7 @@ msgstr "Soubor s dokumentem byl odstraněn."
 
 #: ../src/control/xojfile/LoadHandler.cpp:233
 msgid "Document is corrupted (no pages found in file)"
-msgstr ""
+msgstr "Dokument je poškozen (v souboru nebyly nalezeny žádné stránky)"
 
 #: ../src/control/xojfile/LoadHandler.cpp:229
 msgid "Document is not complete (maybe the end is cut off?)"
@@ -386,7 +396,7 @@ msgstr "Dokument není načten! ({1}), {2}"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:24
 msgid "Dotted"
-msgstr ""
+msgstr "Tečkovaně"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:101
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:30
@@ -418,7 +428,7 @@ msgstr "Kreslit obdélník"
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:32
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:408
 msgid "Draw coordinate system"
-msgstr ""
+msgstr "Nakresli souřadnicový systém"
 
 #: ../src/undo/InsertUndoAction.cpp:30
 msgid "Draw stroke"
@@ -426,7 +436,7 @@ msgstr "Kreslit od ruky"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:91
 msgid "Drawing Type - don't change"
-msgstr ""
+msgstr "Neměň typ výkresu"
 
 #: ../src/undo/TextBoxUndoAction.cpp:36
 msgid "Edit text"
@@ -434,7 +444,7 @@ msgstr "Upravit text"
 
 #: ../src/undo/EmergencySaveRestore.cpp:19
 msgid "Emergency saved document"
-msgstr ""
+msgstr "Nouzově uložený dokument"
 
 #: ../src/undo/AddUndoAction.cpp:75 ../src/undo/DeleteUndoAction.cpp:71
 #: ../src/undo/EraseUndoAction.cpp:90
@@ -475,15 +485,15 @@ msgstr "Chyba čtení šířky čáry: {1}"
 
 #: ../src/control/jobs/ImageExport.cpp:104
 msgid "Error save image #1"
-msgstr ""
+msgstr "Chyba při ukládání obrázku #1"
 
 #: ../src/control/jobs/ImageExport.cpp:119
 msgid "Error save image #2"
-msgstr ""
+msgstr "Chyba při ukládání obrázku #2"
 
 #: ../src/control/jobs/AutosaveJob.cpp:15
 msgid "Error while autosaving: {1}"
-msgstr ""
+msgstr "Chyba při automatickém ukládání: {1}"
 
 #: ../src/util/CrashHandler.cpp:39
 msgid "Error: {1}"
@@ -497,7 +507,7 @@ msgstr "Nelze smazat chybový protokol. Udělejte to prosím ručně.\n"
 
 #: ../src/control/jobs/BaseExportJob.cpp:16
 msgid "Export PDF"
-msgstr ""
+msgstr "Export do PDF"
 
 #: ../src/util/Util.cpp:122 ../src/util/Util.cpp:139
 msgid "File couldn't be opened. You have to do it manually:\n"
@@ -511,15 +521,15 @@ msgstr "Název souboru: {1}"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:457
 msgid "Fill"
-msgstr ""
+msgstr "Vyplnit"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:471
 msgid "Fine"
-msgstr ""
+msgstr "Jemně"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:66
 msgid "Floating Toolbox (experimental)"
-msgstr ""
+msgstr "Plovoucí panel nástrojů (experimentální)"
 
 #: ../src/gui/toolbarMenubar/FontButton.cpp:54
 msgid "Font"
