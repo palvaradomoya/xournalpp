@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-29 19:41+0000\n"
-"PO-Revision-Date: 2020-01-06 21:15\n"
+"PO-Revision-Date: 2020-01-06 21:24\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -902,19 +902,19 @@ msgstr "Odstranit PDF pozadí"
 
 #: ../src/gui/dialog/toolbarCustomize/ToolbarAdapter.cpp:160
 msgid "Removed tool item from Toolbar {1} ID {2}"
-msgstr ""
+msgstr "Nástroj byl odstraněn z panelu nástrojů {1} ID {2}"
 
 #: ../src/gui/dialog/toolbarCustomize/ToolbarAdapter.cpp:158
 msgid "Removed tool item {1} from Toolbar {2} ID {3}"
-msgstr ""
+msgstr "Nástroj {1} byl odstraněn z panelu nástrojů {2} ID {3}"
 
 #: ../src/util/XojMsgBox.cpp:71
 msgid "Replace"
-msgstr ""
+msgstr "Nahradit"
 
 #: ../src/control/xojfile/LoadHandler.cpp:1041
 msgid "Requested temporary file was not found for attachment {1}"
-msgstr ""
+msgstr "Požadovaný dočasný soubor nebyl nalezen pro přílohu {1}"
 
 #: ../src/control/XournalMain.cpp:162
 msgid "Restore file"
@@ -926,7 +926,7 @@ msgstr "Otočení"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:340
 msgid "Rotation Snapping"
-msgstr ""
+msgstr "Přichytávání otočení"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:20
 msgid "Ruled"
@@ -942,11 +942,11 @@ msgstr "Pravítko"
 
 #: ../src/control/jobs/CustomExportJob.cpp:24
 msgid "SVG graphics"
-msgstr ""
+msgstr "SVG grafika"
 
 #: ../src/control/jobs/CustomExportJob.cpp:25
 msgid "SVG with transparent background"
-msgstr ""
+msgstr "SVG s průhledným pozadím"
 
 #: ../src/control/Control.cpp:2442 ../src/control/jobs/SaveJob.cpp:13
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:319
@@ -1004,7 +1004,7 @@ msgstr "Vybrat jiné PDF"
 
 #: ../src/util/XojMsgBox.cpp:70
 msgid "Select another name"
-msgstr ""
+msgstr "Vyberte jiný název"
 
 #: ../src/gui/dialog/SelectBackgroundColorDialog.cpp:114
 msgid "Select background color"
@@ -1050,12 +1050,14 @@ msgstr "Zobrazit pouze nevyužité stránky ({1} nevyužitých stránek)"
 #: ../src/control/XournalMain.cpp:338
 msgid "Sorry, Xournal++ can only open one file at once.\n"
 "Others are ignored."
-msgstr ""
+msgstr "Promiň, Xournal++ může otevřít pouze jeden soubor najednou.\n"
+"Ostatní jsou ignorovány."
 
 #: ../src/control/XournalMain.cpp:350
 msgid "Sorry, Xournal++ cannot open remote files at the moment.\n"
 "You have to copy the file to a local directory."
-msgstr ""
+msgstr "Promiň, Xournal++ momentálně nemůže otevřít vzdálené soubory.\n"
+"Musíš soubor zkopírovat do místního adresáře."
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:22
 msgid "Staves"
@@ -1063,7 +1065,7 @@ msgstr "Notová osnova"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:429
 msgid "Stop"
-msgstr ""
+msgstr "Zastavit"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:105
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:34
@@ -1082,7 +1084,7 @@ msgstr "Podporované soubory"
 #: ../src/gui/dialog/ButtonConfigGui.cpp:60
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:398
 msgid "Text"
-msgstr ""
+msgstr "Text"
 
 #: ../src/gui/SearchBar.cpp:67
 #, c-format
@@ -1127,23 +1129,23 @@ msgstr "PDF pozadí nebylo nalezeno."
 
 #: ../src/control/xojfile/LoadHandler.cpp:115
 msgid "The file is no valid .xopp file (Mimetype missing): \"{1}\""
-msgstr ""
+msgstr "Soubor není platný soubor .xopp (Mimetype chybí): \"{1}\""
 
 #: ../src/control/xojfile/LoadHandler.cpp:122
 msgid "The file is no valid .xopp file (Mimetype wrong): \"{1}\""
-msgstr ""
+msgstr "Soubor není platný .xopp soubor (Mimetype špatně): \"{1}\""
 
 #: ../src/control/xojfile/LoadHandler.cpp:130
 msgid "The file is no valid .xopp file (Version missing): \"{1}\""
-msgstr ""
+msgstr "Soubor není platný .xopp soubor (chybí verze): \"{1}\""
 
 #: ../src/control/xojfile/LoadHandler.cpp:143
 msgid "The file is not a valid .xopp file (Version string corrupted): \"{1}\""
-msgstr ""
+msgstr "Soubor není platný .xopp soubor (Version string je poškozený): \"{1}\""
 
 #: ../src/control/LatexController.cpp:307
 msgid "The formula is empty when rendered or invalid."
-msgstr ""
+msgstr "Vzorec je prázdný, když je vykreslený, nebo neplatný."
 
 #: ../src/control/XournalMain.cpp:109
 msgid "The most recent log file name: {1}"
@@ -1168,7 +1170,7 @@ msgstr "Tlustá"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:81
 msgid "Thickness - don't change"
-msgstr ""
+msgstr "Neměň tloušťku"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:82
 msgid "Thin"
