@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-29 19:41+0000\n"
-"PO-Revision-Date: 2020-01-06 20:29\n"
+"PO-Revision-Date: 2020-01-06 21:15\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -537,7 +537,7 @@ msgstr "Písmo"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:432
 msgid "Forward"
-msgstr ""
+msgstr "Vpřed"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:364
 msgid "Go to first page"
@@ -549,7 +549,7 @@ msgstr "Přejít na poslední stránku"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:371
 msgid "Go to next layer"
-msgstr ""
+msgstr "Přejít na další vrstvu"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:366
 msgid "Go to page"
@@ -557,7 +557,7 @@ msgstr "Přejít na stránku"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:370
 msgid "Go to previous layer"
-msgstr ""
+msgstr "Přejít na předchozí vrstvu"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:372
 msgid "Go to top layer"
@@ -579,7 +579,7 @@ msgstr "Zelená"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:342
 msgid "Grid Snapping"
-msgstr ""
+msgstr "Přichytávání na mřížku"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:65
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:418
@@ -606,7 +606,7 @@ msgstr "Obrázek úspěšně vytvořen"
 
 #: ../src/control/XournalMain.cpp:271
 msgid "Image output filename (.png / .svg)"
-msgstr ""
+msgstr "Název výstupního souboru obrázku (.png / .svg)"
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:17
 msgid "Images"
@@ -689,7 +689,10 @@ msgid "Missing the needed UI file:\n"
 "{1}\n"
 " .app corrupted?\n"
 "Path: {2}"
-msgstr ""
+msgstr "Chybí potřebný soubor uživatelského rozhraní:\n"
+"{1}\n"
+" .app poškozeno?\n"
+"Cesta: {2}"
 
 #: ../src/undo/MoveUndoAction.cpp:17
 msgid "Move"
@@ -697,7 +700,7 @@ msgstr "Přesunout"
 
 #: ../src/undo/MoveLayerUndoAction.cpp:27
 msgid "Move layer"
-msgstr ""
+msgstr "Přesunout vrstvu"
 
 #: ../src/undo/SwapUndoAction.cpp:63
 msgid "Move page downwards"
@@ -730,11 +733,11 @@ msgstr "Žádné zařízení"
 #: ../src/pdf/base/XojCairoPdfExport.cpp:67
 #: ../src/pdf/base/XojCairoPdfExport.cpp:105
 msgid "No pages to export!"
-msgstr ""
+msgstr "Žádné stránky k exportu!"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:93
 msgid "Normal drawing"
-msgstr ""
+msgstr "Normální výkres"
 
 #: ../src/plugin/Plugin.cpp:308 ../src/plugin/Plugin.cpp:327
 msgid "OK"
@@ -743,7 +746,8 @@ msgstr "OK"
 #: ../src/control/jobs/BaseExportJob.cpp:86
 msgid "Only local files are supported\n"
 "Path: {1}"
-msgstr ""
+msgstr "Pouze místní soubory jsou podporovány\n"
+"Cesta: {1}"
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:11
 msgid "Open Image"
@@ -774,7 +778,7 @@ msgstr "Oranžová"
 
 #: ../src/control/jobs/PdfExportJob.cpp:9
 msgid "PDF Export"
-msgstr ""
+msgstr "Export PDF"
 
 #: ../src/gui/MainWindow.cpp:628
 msgid "PDF Page {1}"
@@ -800,15 +804,15 @@ msgstr "Název výstupního PDF"
 
 #: ../src/control/jobs/CustomExportJob.cpp:21
 msgid "PDF with plain background"
-msgstr ""
+msgstr "PDF s čistým pozadím"
 
 #: ../src/control/jobs/CustomExportJob.cpp:22
 msgid "PNG graphics"
-msgstr ""
+msgstr "PNG grafika"
 
 #: ../src/control/jobs/CustomExportJob.cpp:23
 msgid "PNG with transparent background"
-msgstr ""
+msgstr "PNG s průhledným pozadím"
 
 #: ../src/gui/toolbarMenubar/ToolPageSpinner.cpp:42
 msgid "Page"
@@ -836,7 +840,7 @@ msgstr "Číslo stránky"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:348
 msgid "Paired pages"
-msgstr ""
+msgstr "Spárované stránky"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:332
 #: ../src/undo/AddUndoAction.cpp:77
@@ -845,7 +849,7 @@ msgstr "Vložit"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:426
 msgid "Pause / Play"
-msgstr ""
+msgstr "Pozastavit / Spustit"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:57
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:228
@@ -860,7 +864,7 @@ msgstr "Čistá"
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:20
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:71
 msgid "Play Object"
-msgstr ""
+msgstr "Přehrát objekt"
 
 #: ../src/gui/dialog/ToolbarManageDialog.cpp:17
 msgid "Predefined"
@@ -872,11 +876,11 @@ msgstr "Prezentace"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:424
 msgid "Record Audio / Stop Recording"
-msgstr ""
+msgstr "Nahrát zvuk / Zastavit nahrávání"
 
 #: ../src/control/Control.cpp:903
 msgid "Recorder could not be started."
-msgstr ""
+msgstr "Nelze spustit nahrávání."
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:16
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:109
