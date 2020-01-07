@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-29 19:41+0000\n"
-"PO-Revision-Date: 2020-01-07 15:30\n"
+"PO-Revision-Date: 2020-01-07 15:37\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -1956,23 +1956,23 @@ msgstr "Upravit (zatím neimplementováno)"
 
 #: ../ui/settings.glade:1615
 msgid "Enable"
-msgstr ""
+msgstr "Zapnout"
 
 #: ../ui/settings.glade:3179
 msgid "Enable  with determination radius of "
-msgstr ""
+msgstr "Zapnout s poloměrem určení "
 
 #: ../ui/settings.glade:544
 msgid "Enable Autoloading of Journals"
-msgstr ""
+msgstr "Povolit automatické načítání deníků"
 
 #: ../ui/settings.glade:242
 msgid "Enable Autosaving"
-msgstr ""
+msgstr "Zapnout automatické ukládání"
 
 #: ../ui/settings.glade:1836
 msgid "Enable GTK Touch / Scrolling workaround  (requires restart)"
-msgstr ""
+msgstr "Zapnout GTK dotyky / Scrolování (vyžaduje restart)"
 
 #: ../ui/settings.glade:1114
 msgid "Enable Pressure Sensitivity"
@@ -1980,15 +1980,15 @@ msgstr "Povolit Tlakovou citlivost"
 
 #: ../ui/settings.glade:3266
 msgid "Enable Tap action"
-msgstr ""
+msgstr "Zapnout akci klepnutím"
 
 #: ../ui/settings.glade:796
 msgid "Enable drawing outside of window <i>(Drawing will not stop at the border of the window)</i>"
-msgstr ""
+msgstr "Povol kreslení mimo okno <i>(Výkres se nezastaví na okraji okna)</i>"
 
 #: ../ui/settings.glade:1466
 msgid "Enable internal Hand Recognition"
-msgstr ""
+msgstr "Povol interní rozpoznávání ruky"
 
 #: ../ui/settings.glade:643
 msgid "Enable new input system (Requires restart)"
@@ -2076,7 +2076,7 @@ msgstr "_Nástroj prohlížení"
 
 #: ../ui/settings.glade:1724
 msgid "Hand Recognition"
-msgstr ""
+msgstr "Rozpoznání ruky"
 
 #: ../ui/pagesize.glade:212
 msgid "Height:"
