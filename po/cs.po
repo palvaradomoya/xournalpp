@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-29 19:41+0000\n"
-"PO-Revision-Date: 2020-01-07 11:56\n"
+"PO-Revision-Date: 2020-01-07 12:06\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -2178,27 +2178,28 @@ msgstr "Maximální délka (mm)"
 #: ../ui/settings.glade:827
 msgid "Merge button events with stylus tip events\n"
 "<i>(Check this if</i> \"<tt>xsetwacom get *deviceId* TabletPCButton</tt>\" <i>returns</i> \"<tt>on</tt>\"<i>)</i>"
-msgstr ""
+msgstr "Sloučit události tlačítek s událostmi tipu stylusu\n"
+"<i>(zaškrtněte pokud</i><tt>xsetwacom ukáže *deviceId* TabletPCButton</tt>\" <i>vrátí</i> \"<tt>na</tt>\"<i>)</i>"
 
 #: ../ui/settings.glade:961
 msgid "Middle Mouse Button"
-msgstr ""
+msgstr "Prostřední tlačítko myši"
 
 #: ../ui/settings.glade:1048 ../ui/settingsDeviceClassConfig.glade:42
 msgid "Mouse"
-msgstr ""
+msgstr "Myš"
 
 #: ../ui/settings.glade:1017
 msgid "Mouse Buttons"
-msgstr ""
+msgstr "Tlačítko myši"
 
 #: ../ui/main.glade:2555
 msgid "Move Down"
-msgstr ""
+msgstr "Posunout dolů"
 
 #: ../ui/main.glade:2547
 msgid "Move Up"
-msgstr ""
+msgstr "Posunout nahoru"
 
 #: ../ui/main.glade:1066
 msgid "N_ext annotated page"
@@ -2222,7 +2223,7 @@ msgstr "_Nová vrstva"
 
 #: ../ui/settings.glade:3025
 msgid "Offset first page this many pages when <b>Pair Pages</b> enabled"
-msgstr ""
+msgstr "Posunout první stránku o tento počet stránek, když je povoleno <b>Spárové stránky</b>"
 
 #: ../ui/settings.glade:849
 msgid "Options"
@@ -2230,15 +2231,15 @@ msgstr "Volby"
 
 #: ../ui/settings.glade:3796
 msgid "Output Device"
-msgstr ""
+msgstr "Výstupní zařízení"
 
 #: ../ui/main.glade:1077
 msgid "P_revious annotated Page"
-msgstr ""
+msgstr "P_ředchozí poznamenaná stránka"
 
 #: ../ui/pageTemplate.glade:18
 msgid "Page Template"
-msgstr ""
+msgstr "Šablona stránky"
 
 #: ../ui/exportSettings.glade:175
 msgid "Pages:"
@@ -2246,7 +2247,7 @@ msgstr "Stránky:"
 
 #: ../ui/settings.glade:3058
 msgid "Paired Pages"
-msgstr ""
+msgstr "Spárované stránky"
 
 #: ../ui/pagesize.glade:18
 msgid "Paper Format"
@@ -2267,7 +2268,8 @@ msgstr "Pozadí _papíru"
 #: ../ui/about.glade:247
 msgid "Partially based on Xournal\n"
 "by Denis Auroux"
-msgstr ""
+msgstr "Částečně založené na Xournal\n"
+"Denis Auroux"
 
 #: ../ui/main.glade:1832
 msgid "Pause"
