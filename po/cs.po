@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-29 19:41+0000\n"
-"PO-Revision-Date: 2020-01-07 18:41\n"
+"PO-Revision-Date: 2020-01-07 18:57\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -2376,27 +2376,27 @@ msgstr "Vyberte nástrojovou lištu:"
 
 #: ../ui/settings.glade:2051
 msgid "Selection Color (Text, Stroke Selection etc.)"
-msgstr ""
+msgstr "Barva výběru (Text, výběr tahu atd.)"
 
 #: ../ui/main.glade:621
 msgid "Set Columns"
-msgstr ""
+msgstr "Nastavit sloupce"
 
 #: ../ui/main.glade:726
 msgid "Set Rows"
-msgstr ""
+msgstr "Nastavit řádky"
 
 #: ../ui/settings.glade:3398
 msgid "Settings:"
-msgstr ""
+msgstr "Nastavení:"
 
 #: ../ui/settings.glade:3407
 msgid "Show Floating Toolbox"
-msgstr ""
+msgstr "Zobrazit plovoucí panel nástrojů"
 
 #: ../ui/settings.glade:1943
 msgid "Show Menubar on Startup"
-msgstr ""
+msgstr "Zobraz menu lištu při spuštění"
 
 #: ../ui/main.glade:496
 msgid "Show sidebar"
@@ -2412,15 +2412,15 @@ msgstr "Zobrazit vertikální posuvník na levé straně"
 
 #: ../ui/settings.glade:3150
 msgid "Snapping"
-msgstr ""
+msgstr "Přichytávání"
 
 #: ../ui/settings.glade:2579
 msgid "Speed for Ctrl + Scroll"
-msgstr ""
+msgstr "Rychlost pro Ctrl + Scrolování"
 
 #: ../ui/settings.glade:2607
 msgid "Speed for a Zoomstep"
-msgstr ""
+msgstr "Rychlost pro přiblížení"
 
 #: ../ui/settingsButtonConfig.glade:130
 msgid "Standard"
@@ -2428,27 +2428,27 @@ msgstr "Standardní"
 
 #: ../ui/settings.glade:3681 ../ui/settings.glade:3718
 msgid "Storage Folder"
-msgstr ""
+msgstr "Složka úložiště"
 
 #: ../ui/settings.glade:1333
 msgid "Stylus"
-msgstr ""
+msgstr "Stylus"
 
 #: ../ui/settings.glade:1302
 msgid "Stylus Buttons"
-msgstr ""
+msgstr "Tlačítka Stylusu"
 
 #: ../ui/settings.glade:3348
 msgid "Successive (ms)"
-msgstr ""
+msgstr "Postupně (ms)"
 
 #: ../ui/main.glade:2065
 msgid "Swap the current page with the one above"
-msgstr ""
+msgstr "Prohodit aktuální stránku s výše uvedenou"
 
 #: ../ui/main.glade:2087
 msgid "Swap the current page with the one below"
-msgstr ""
+msgstr "Prohodit aktuální stránku s níže uvedenou"
 
 #: ../ui/main.glade:840
 msgid "T_oolbars"
@@ -2460,7 +2460,7 @@ msgstr "Šablona:"
 
 #: ../ui/settings.glade:1660 ../ui/settings.glade:1673
 msgid "Test"
-msgstr ""
+msgstr "Test"
 
 #: ../ui/main.glade:1810
 msgid "Text Font..."
@@ -2472,11 +2472,11 @@ msgstr "Jednotkou pravítka jsou cm"
 
 #: ../ui/settings.glade:775
 msgid "These settings take only effect if the experimental input system is activated"
-msgstr ""
+msgstr "Tato nastavení se projeví pouze při aktivaci experimentálního vstupního systému"
 
 #: ../ui/settings.glade:628
 msgid "This is an experimental feature! Use it with care."
-msgstr ""
+msgstr "Toto je experimentální funkce! Používej s opatrností."
 
 #: ../ui/settings.glade:1507
 msgid "Timeout"
