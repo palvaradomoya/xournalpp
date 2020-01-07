@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-29 19:41+0000\n"
-"PO-Revision-Date: 2020-01-07 11:32\n"
+"PO-Revision-Date: 2020-01-07 11:46\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -1722,19 +1722,19 @@ msgstr "<i>Tento název bude navržen, když uložíte nový dokument.</i>"
 
 #: ../ui/settings.glade:2692
 msgid "<i>To make sure on 100% zoom the size of elements is natural. (requires restart)</i>"
-msgstr ""
+msgstr "<i>Pro zajištění přirozené velikosti prvků při 100% zvětšení. (vyžaduje restart)</i>"
 
 #: ../ui/settings.glade:1962
 msgid "<i>Toggle visibility of menubar with F10</i>"
-msgstr ""
+msgstr "<i>Přepnout viditelnost panelu nabídek s F10</i>"
 
 #: ../ui/settings.glade:1755
 msgid "<i>Use pinch gestures to zoom journal pages.</i>"
-msgstr ""
+msgstr "<i>Přiblížit stránky deníků pomocí gesta.</i>"
 
 #: ../ui/settings.glade:1384
 msgid "<i>You can configure devices, not identified by GTK as touchscreen, to behave as if they were one.</i>"
-msgstr ""
+msgstr "<i>Můžete nakonfigurovat zařízení, která nejsou identifikována GTK jako dotyková obrazovka, aby se chovala jako kdyby byli.</i>"
 
 #: ../ui/about.glade:73
 msgid "<span size=\"xx-large\" weight=\"bold\">Xournal++</span>\n"
@@ -1748,15 +1748,15 @@ msgstr "O aplikaci Xournal++"
 
 #: ../ui/settings.glade:3430
 msgid "Action on Tool Tap"
-msgstr ""
+msgstr "Akce při klepnutí na nástroj"
 
 #: ../ui/settings.glade:2921
 msgid "Add additional horizontal space of"
-msgstr ""
+msgstr "Přidat další vodorovný prostor"
 
 #: ../ui/settings.glade:2899
 msgid "Add additional vertical space of"
-msgstr ""
+msgstr "Přidat další horizontální prostor"
 
 #: ../ui/exportSettings.glade:142
 msgid "All pages"
@@ -1765,43 +1765,44 @@ msgstr "Všechny stránky"
 #: ../ui/settings.glade:3396
 msgid "All three conditions must be met before stroke is ignored.\n"
 "It must be short in time and length and we can't have ignored another stroke recently."
-msgstr ""
+msgstr "Před ignorováním tahu musí být splněny všechny tři podmínky.\n"
+"Musí to být v krátkém čase, krátké délky a v poslední době nesměl být ignorován jiný tah."
 
 #: ../ui/settings.glade:3830
 msgid "Audio Devices"
-msgstr ""
+msgstr "Zvuková zařízení"
 
 #: ../ui/settings.glade:4035
 msgid "Audio Recording"
-msgstr ""
+msgstr "Záznam zvuku"
 
 #: ../ui/pluginEntry.glade:57
 msgid "Author: "
-msgstr ""
+msgstr "Autor: "
 
 #: ../ui/about.glade:186
 msgid "Authors:"
-msgstr ""
+msgstr "Autoři:"
 
 #: ../ui/settings.glade:1522
 msgid "Autodetect"
-msgstr ""
+msgstr "Autodetekce"
 
 #: ../ui/settings.glade:566
 msgid "Autoloading Journals"
-msgstr ""
+msgstr "Automatické načítání deníků"
 
 #: ../ui/settings.glade:323
 msgid "Autosaving"
-msgstr ""
+msgstr "Automatické ukládání"
 
 #: ../ui/settings.glade:472
 msgid "Available Placeholders"
-msgstr ""
+msgstr "Dostupné zástupné symboly"
 
 #: ../ui/settings.glade:2026
 msgid "Background color between pages"
-msgstr ""
+msgstr "Barva pozadí mezi stránkami"
 
 #: ../ui/settings.glade:2160
 msgid "Big cursor for pen"
@@ -1813,7 +1814,7 @@ msgstr "Barva okraje"
 
 #: ../ui/settings.glade:2000
 msgid "Border color for current page and other selections"
-msgstr ""
+msgstr "Barva ohraničení pro aktuální stránku a ostatní výběry"
 
 #: ../ui/about.glade:127
 msgid "Built on"
