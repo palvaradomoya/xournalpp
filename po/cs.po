@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-29 19:41+0000\n"
-"PO-Revision-Date: 2020-01-06 21:24\n"
+"PO-Revision-Date: 2020-01-07 09:00\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -934,7 +934,7 @@ msgstr "Linkovaný"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:21
 msgid "Ruled with vertical line"
-msgstr ""
+msgstr "Řízeno svislou čarou"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:409
 msgid "Ruler"
@@ -1191,7 +1191,7 @@ msgstr "Přepnout režim celé obrazovky"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:56
 msgid "Tool - don't change"
-msgstr ""
+msgstr "Neměň nástroj"
 
 #: ../src/gui/toolbarMenubar/model/ToolbarData.cpp:106
 msgid "Toolbar found: {1}"
@@ -1207,7 +1207,7 @@ msgstr "Pokus o nouzové uložení aktuálně otevřeného dokumentu…"
 
 #: ../src/gui/PageView.cpp:347
 msgid "Unable to play audio recording {1}"
-msgstr ""
+msgstr "Nebylo možno přehrát zvukovou nahrávku {1}"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:325
 #: ../src/undo/UndoRedoHandler.cpp:203
@@ -1264,11 +1264,11 @@ msgstr "Vertikální mezera"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:470
 msgid "Very Fine"
-msgstr ""
+msgstr "Velmi jemná"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:475
 msgid "Very Thick"
-msgstr ""
+msgstr "Velmi tlustá"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:20
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:113
@@ -1297,7 +1297,7 @@ msgstr "Chyba načítání XML: {1}"
 
 #: ../src/control/jobs/CustomExportJob.cpp:26
 msgid "Xournal (Compatibility)"
-msgstr ""
+msgstr "Xournal (kompatibilita)"
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:50
 msgid "Xournal files"
@@ -1305,16 +1305,16 @@ msgstr "Soubory Xournalu"
 
 #: ../src/control/XournalMain.cpp:156
 msgid "Xournal++ crashed last time. Would you like to restore the last edited file?"
-msgstr ""
+msgstr "Xournal++ naposledy spadnul. Chcete obnovit poslední upravený soubor?"
 
 #: ../src/control/Control.cpp:2284 ../src/control/stockdlg/XojOpenDlg.cpp:57
 msgid "Xournal++ files"
-msgstr ""
+msgstr "Soubory Xournalu++"
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:64
 #: ../src/gui/dialog/PageTemplateDialog.cpp:89
 msgid "Xournal++ template"
-msgstr ""
+msgstr "Šablona Xournalu++"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:19
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:112
@@ -1324,7 +1324,8 @@ msgstr "Žlutá"
 #: ../src/control/PageBackgroundChangeController.cpp:185
 msgid "You don't have any PDF pages to select from. Cancel operation.\n"
 "Please select another background type: Menu \"Journal\" → \"Configure Page Template\"."
-msgstr ""
+msgstr "Nemáte žádné PDF stránky k výběru. Zrušit operaci.\n"
+"Prosím vyberte jiný typ pozadí: Menu \"Journal\" → \"Konfigurovat šablonu stránky\"."
 
 #: ../src/control/XournalMain.cpp:105
 msgid "You're using {1}/{2} branch. Send Bugreport will direct you to this repo's issue tracker."
@@ -1363,17 +1364,17 @@ msgstr "Přiblížit na 100%"
 #: ../src/control/stockdlg/XojOpenDlg.cpp:11
 #: ../src/gui/dialog/PageTemplateDialog.cpp:84
 msgid "_Cancel"
-msgstr ""
+msgstr "_Zrušit"
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:12
 #: ../src/control/stockdlg/XojOpenDlg.cpp:12
 msgid "_Open"
-msgstr ""
+msgstr "_Otevřít"
 
 #: ../src/control/Control.cpp:2279 ../src/control/jobs/BaseExportJob.cpp:17
 #: ../src/gui/dialog/PageTemplateDialog.cpp:84
 msgid "_Save"
-msgstr ""
+msgstr "_Uložit"
 
 #: ../src/util/DeviceListHelper.cpp:96
 msgid "cursor"
@@ -1381,19 +1382,19 @@ msgstr "kurzor"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:236
 msgid "dash-/ dotted"
-msgstr ""
+msgstr "pomlčka / tečkovaně"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:233
 msgid "dashed"
-msgstr ""
+msgstr "čárkovaně"
 
 #: ../src/gui/dialog/PluginDialogEntry.cpp:28
 msgid "default disabled"
-msgstr ""
+msgstr "ve výchozím stavu zakázáno"
 
 #: ../src/gui/dialog/PluginDialogEntry.cpp:28
 msgid "default enabled"
-msgstr ""
+msgstr "ve výchozím stavu povoleno"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:251
 msgid "delete stroke"
@@ -1401,11 +1402,11 @@ msgstr "odstranit čáru"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:239
 msgid "dotted"
-msgstr ""
+msgstr "tečkovaně"
 
 #: ../src/undo/AddUndoAction.cpp:86 ../src/undo/DeleteUndoAction.cpp:83
 msgid "elements"
-msgstr ""
+msgstr "prvky"
 
 #: ../src/util/DeviceListHelper.cpp:94
 msgid "eraser"
@@ -1413,11 +1414,11 @@ msgstr "guma"
 
 #: ../src/undo/AddUndoAction.cpp:97 ../src/undo/DeleteUndoAction.cpp:94
 msgid "image"
-msgstr ""
+msgstr "obrázek"
 
 #: ../src/util/DeviceListHelper.cpp:99
 msgid "keyboard"
-msgstr ""
+msgstr "klávesnice"
 
 #: ../src/undo/AddUndoAction.cpp:100 ../src/undo/DeleteUndoAction.cpp:97
 msgid "latex"
@@ -1429,7 +1430,7 @@ msgstr "myš"
 
 #: ../src/control/LatexController.cpp:264
 msgid "pdflatex encountered an error: {1} (exit code: {2})"
-msgstr ""
+msgstr "pdflatex narazil na chybu: {1} (chybový kód: {2})"
 
 #: ../src/util/DeviceListHelper.cpp:92
 msgid "pen"
@@ -1437,7 +1438,7 @@ msgstr "pero"
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:153
 msgid "show"
-msgstr ""
+msgstr "zobrazit"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:230
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:249
@@ -1446,27 +1447,27 @@ msgstr "standardní"
 
 #: ../src/undo/AddUndoAction.cpp:94 ../src/undo/DeleteUndoAction.cpp:91
 msgid "stroke"
-msgstr ""
+msgstr "čára"
 
 #: ../src/util/DeviceListHelper.cpp:108
 msgid "tablet pad"
-msgstr ""
+msgstr "tablet"
 
 #: ../src/undo/AddUndoAction.cpp:103 ../src/undo/DeleteUndoAction.cpp:100
 msgid "text"
-msgstr ""
+msgstr "text"
 
 #: ../src/util/DeviceListHelper.cpp:103
 msgid "touchpad"
-msgstr ""
+msgstr "touchpad"
 
 #: ../src/util/DeviceListHelper.cpp:101
 msgid "touchscreen"
-msgstr ""
+msgstr "dotyková obrazovka"
 
 #: ../src/util/DeviceListHelper.cpp:106
 msgid "trackpoint"
-msgstr ""
+msgstr "trackpoint"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:250
 msgid "whiteout"
@@ -1482,7 +1483,7 @@ msgstr "xoj-preview-extractor: spoušťejte s VSTUP.xoj VÝSTUP.png"
 
 #: ../src/xoj-preview-extractor/xournal-thumbnailer.cpp:143
 msgid "xoj-preview-extractor: could not find icon \"{1}\""
-msgstr ""
+msgstr "xoj-preview-extractor: nelze najít ikonu \"{1}\""
 
 #: ../src/xoj-preview-extractor/xournal-thumbnailer.cpp:92
 msgid "xoj-preview-extractor: file \"{1}\" contains no preview"
@@ -1510,15 +1511,15 @@ msgstr "xoj-preview-extractor: úspěšně extrahováno"
 
 #: ../src/util/Util.cpp:95
 msgid "xournalpp-{1}"
-msgstr ""
+msgstr "xournalpp-{1}"
 
 #: ../ui/main.glade:31
 msgid " = Floating Toolbox (experimental) ="
-msgstr ""
+msgstr " = Plovoucí panel nástrojů (experimentální) ="
 
 #: ../ui/settings.glade:2635 ../ui/settings.glade:2646
 msgid "%"
-msgstr ""
+msgstr "%"
 
 #: ../ui/settings.glade:425
 msgid "%a\t\tAbbreviated weekday name (e.g. Thu)\n"
