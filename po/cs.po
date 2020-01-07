@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-29 19:41+0000\n"
-"PO-Revision-Date: 2020-01-07 18:06\n"
+"PO-Revision-Date: 2020-01-07 18:41\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -2336,31 +2336,31 @@ msgstr "Rozlišení"
 
 #: ../ui/settings.glade:999
 msgid "Right Mouse Button"
-msgstr ""
+msgstr "Pravé tlačítko myši"
 
 #: ../ui/settings.glade:3091
 msgid "Rotation snapping tolerance"
-msgstr ""
+msgstr "Tolerance přichytávání při otáčení"
 
 #: ../ui/settings.glade:3862
 msgid "Sample Rate"
-msgstr ""
+msgstr "Vzorkovací frekvence"
 
 #: ../ui/settings.glade:2328
 msgid "Scrollbars"
-msgstr ""
+msgstr "Posuvníky"
 
 #: ../ui/settings.glade:2993
 msgid "Scrolling outside the page"
-msgstr ""
+msgstr "Scrolování mimo stránku"
 
 #: ../ui/pageTemplate.glade:174
 msgid "Select Background Color"
-msgstr ""
+msgstr "Vyber barvu pozadí"
 
 #: ../ui/settings.glade:3696
 msgid "Select Folder"
-msgstr ""
+msgstr "Vybrat složku"
 
 #: ../ui/images.glade:8
 msgid "Select Image"
