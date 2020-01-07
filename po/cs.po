@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-29 19:41+0000\n"
-"PO-Revision-Date: 2020-01-07 19:06\n"
+"PO-Revision-Date: 2020-01-07 19:17\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -2601,15 +2601,15 @@ msgstr "_7 Sloupců"
 
 #: ../ui/main.glade:804
 msgid "_7 Rows"
-msgstr ""
+msgstr "_7 Řádků"
 
 #: ../ui/main.glade:710
 msgid "_8 Columns"
-msgstr ""
+msgstr "_8 Sloupců"
 
 #: ../ui/main.glade:815
 msgid "_8 Rows"
-msgstr ""
+msgstr "_8 Řádků"
 
 #: ../ui/main.glade:199
 msgid "_Annotate PDF"
@@ -2617,11 +2617,11 @@ msgstr "_Anotovat PDF"
 
 #: ../ui/main.glade:593
 msgid "_Bottom to Top"
-msgstr ""
+msgstr "_Ze spodu nahoru"
 
 #: ../ui/main.glade:608
 msgid "_Cols/Rows"
-msgstr ""
+msgstr "_Sloupce/Řádky"
 
 #: ../ui/main.glade:868
 msgid "_Customize"
@@ -2629,7 +2629,7 @@ msgstr "_Přizpůsobit"
 
 #: ../ui/main.glade:1293
 msgid "_Default Tools"
-msgstr ""
+msgstr "_Výchozí nástroje"
 
 #: ../ui/main.glade:1144
 msgid "_Delete Page"
@@ -2657,7 +2657,7 @@ msgstr "_První stránka"
 
 #: ../ui/main.glade:989
 msgid "_Goto Page"
-msgstr ""
+msgstr "_Přejít na stránku"
 
 #: ../ui/main.glade:1914
 msgid "_Help"
@@ -2669,7 +2669,7 @@ msgstr "_Zvýrazňovač"
 
 #: ../ui/main.glade:524
 msgid "_Horizontal"
-msgstr ""
+msgstr "_Horizontální"
 
 #: ../ui/main.glade:1281
 msgid "_Image"
@@ -2685,7 +2685,7 @@ msgstr "Po_slední stránka"
 
 #: ../ui/main.glade:553
 msgid "_Left To Right"
-msgstr ""
+msgstr "_Zleva doprava"
 
 #: ../ui/main.glade:858
 msgid "_Manage"
@@ -2697,7 +2697,7 @@ msgstr "_Navigace"
 
 #: ../ui/main.glade:1039
 msgid "_Next Layer"
-msgstr ""
+msgstr "_Další vrstva"
 
 #: ../ui/main.glade:1000
 msgid "_Next Page"
@@ -2705,7 +2705,7 @@ msgstr "_Další stránka"
 
 #: ../ui/main.glade:465
 msgid "_Pair Pages"
-msgstr ""
+msgstr "_Spárovat stránky"
 
 #: ../ui/main.glade:1233
 msgid "_Pen"
@@ -2713,7 +2713,7 @@ msgstr "_Pero"
 
 #: ../ui/main.glade:1889
 msgid "_Plugin"
-msgstr ""
+msgstr "_Zásuvný modul"
 
 #: ../ui/main.glade:475
 msgid "_Presentation Mode"
@@ -2721,7 +2721,7 @@ msgstr "_Prezentace"
 
 #: ../ui/main.glade:1028
 msgid "_Previous Layer"
-msgstr ""
+msgstr "_Předchozí vrstva"
 
 #: ../ui/main.glade:978
 msgid "_Previous Page"
@@ -2729,7 +2729,7 @@ msgstr "_Předchozí stránka"
 
 #: ../ui/main.glade:564
 msgid "_Right To Left"
-msgstr ""
+msgstr "_Zprava do leva"
 
 #: ../ui/main.glade:1309
 msgid "_Shape Recognizer"
@@ -2737,7 +2737,7 @@ msgstr "_Rozpoznávání tvarů"
 
 #: ../ui/main.glade:1269
 msgid "_Text"
-msgstr ""
+msgstr "_Text"
 
 #: ../ui/main.glade:1222
 msgid "_Tools"
@@ -2745,15 +2745,15 @@ msgstr "_Nástroje"
 
 #: ../ui/main.glade:1050
 msgid "_Top Layer"
-msgstr ""
+msgstr "_Horní vrstva"
 
 #: ../ui/main.glade:582
 msgid "_Top to Bottom"
-msgstr ""
+msgstr "_Shora Dolů"
 
 #: ../ui/main.glade:535
 msgid "_Vertical"
-msgstr ""
+msgstr "_Svisle"
 
 #: ../ui/main.glade:1417
 msgid "_Vertical Space"
@@ -2793,40 +2793,40 @@ msgstr "_bělení"
 
 #: ../ui/pageTemplate.glade:158
 msgid "change"
-msgstr ""
+msgstr "změnit"
 
 #: ../ui/exportSettings.glade:223
 msgid "dpi"
-msgstr ""
+msgstr "dpi"
 
 #: ../ui/pluginEntry.glade:130
 msgid "enabled,"
-msgstr ""
+msgstr "zapnuto,"
 
 #: ../ui/settings.glade:266
 msgid "every"
-msgstr ""
+msgstr "každý"
 
 #: ../ui/pageTemplate.glade:51
 msgid "load from file"
-msgstr ""
+msgstr "načíst ze souboru"
 
 #: ../ui/settings.glade:293
 msgid "minutes"
-msgstr ""
+msgstr "minuty"
 
 #: ../ui/settings.glade:2960 ../ui/settings.glade:2971
 #: ../ui/settings.glade:3219
 msgid "pixels"
-msgstr ""
+msgstr "pixely"
 
 #: ../ui/settings.glade:1551
 msgid "s <i>(after which the touchscreen will be reactivated again)</i>"
-msgstr ""
+msgstr "s <i>(poté bude dotyková obrazovka znovu aktivována)</i>"
 
 #: ../ui/pageTemplate.glade:37
 msgid "save to file"
-msgstr ""
+msgstr "ulož do souboru"
 
 #: ../ui/main.glade:1514 ../ui/main.glade:1660 ../ui/main.glade:1769
 msgid "ver_y thick"
