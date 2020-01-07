@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-29 19:41+0000\n"
-"PO-Revision-Date: 2020-01-07 10:01\n"
+"PO-Revision-Date: 2020-01-07 10:56\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -1545,16 +1545,38 @@ msgid "%a\t\tAbbreviated weekday name (e.g. Thu)\n"
 "%Y\t\tYear (e.g. 2001)\n"
 "%Z\t\tTimezone name or abbreviation (e.g. CDT)\n"
 "%%\tA % sign"
-msgstr ""
+msgstr "%a\t\tZkrácený název dne (například Čt)\n"
+"%A\t\tCelý název dne (například Čtvrtek)\n"
+"%b\t\tZkrácený název měsíce (například Srp)\n"
+"%B\t\tCelý název měsíce (například Srpen)\n"
+"%c\t\tDatum a čas (například Čt Srp 23 14:55:02 2001)\n"
+"%d\t\tDen měsíce (01-31)\n"
+"%F\t\tDatum (například 2001-08-23)\n"
+"%H\t\tHodiny v 24h formátu (00-23)\n"
+"%I\t\tHodiny v 12h formátu (01-12)\n"
+"%j\t\tDen roku (001-366)\n"
+"%m\tMěsíc jako číslo (01-12)\n"
+"%M\tMinuta (00-59)\n"
+"%p\t\tDopoledne/odpoledne ve formátu AM nebo PM\n"
+"%S\t\tSekundy (00-61)\n"
+"%U\t\tČíslo týdne, první Neděle jako první den prvního týdne (00-53)\n"
+"%w\t\tDen týdne jako číslo, Neděle je 0 (0-6)\n"
+"%W\tČíslo týdne s prvním Pondělím jako první den týdne (00-53)\n"
+"%x\t\tDatum (například 08/23/01)\n"
+"%X\t\tČas (například 14:55:02)\n"
+"%y\t\tRok, poslední dvě čísla (00-99)\n"
+"%Y\t\tRok (například 2001)\n"
+"%Z\t\tNázev časové zóny, zkratka (například CDT)\n"
+"%%\tA % značka"
 
 #: ../ui/settings.glade:3360
 msgid "... AND How much time must have passed since last stroke.\n\n"
 "<i>Recommended: 500ms</i>"
-msgstr ""
+msgstr "<i>Doporučeno: 500ms</i>"
 
 #: ../ui/settings.glade:3968
 msgid "1,00"
-msgstr ""
+msgstr "1,00"
 
 #: ../ui/images.glade:88
 msgid "<b>... or select already used Image:</b>"
@@ -1562,11 +1584,11 @@ msgstr "<b>… nebo vyberte již použitý obrázek:</b>"
 
 #: ../ui/pageTemplate.glade:256
 msgid "<b>Background Color</b>"
-msgstr ""
+msgstr "<b>Barva pozadí</b>"
 
 #: ../ui/pageTemplate.glade:269
 msgid "<b>Background</b>"
-msgstr ""
+msgstr "<b>Pozadí</b>"
 
 #: ../ui/toolbarCustomizeDialog.glade:141
 msgid "<b>Color</b>"
@@ -1575,7 +1597,8 @@ msgstr "<b>Barva</b>"
 #: ../ui/pageTemplate.glade:110
 msgid "<b>Configure Xournal++ Template Page</b>\n"
 "This settings will be used if you create a new document"
-msgstr ""
+msgstr "<b>Nastavení Xournal++ šablony</b>\n"
+"Toto nastavení bude použito při vytváření nového dokumentu"
 
 #: ../ui/pageTemplate.glade:241 ../ui/pageTemplate.glade:282
 msgid "<b>Copy last page</b>\n"
