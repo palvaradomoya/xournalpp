@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-29 19:41+0000\n"
-"PO-Revision-Date: 2020-01-07 11:17\n"
+"PO-Revision-Date: 2020-01-07 11:32\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -1696,28 +1696,29 @@ msgstr "<i>Tlaková citlivost umožňuje nakreslit čáry s různými šířkami
 
 #: ../ui/settings.glade:2714
 msgid "<i>Put a ruler on your screen and move the slider until both rulers match.</i>"
-msgstr ""
+msgstr "<i>Dejte na obrazovku pravítko a přesuňte ho, dokud se obě pravítka neshodují.</i>"
 
 #: ../ui/settings.glade:3513
 msgid "<i>Select the tool and Settings if you press the Default Button.</i>"
-msgstr ""
+msgstr "<i>Vyberte nástroj a nastavení když stisknete defaultní tlačítko.</i>"
 
 #: ../ui/settings.glade:1592
 msgid "<i>Specify commands that are called once Hand Recognition triggers. The commands will be executed in the UI Thread, make sure they are not blocking!</i>"
-msgstr ""
+msgstr "<i>Určete příkazy, které jsou volány, jakmile se spustí rozpoznání ruky. Příkazy budou provedeny ve vlákně uživatelského rozhraní, ujistěte se, že nejsou blokovány!</i>"
 
 #: ../ui/settings.glade:3749
 msgid "<i>Specify the audio devices used for recording and playback of audio attachments. \n"
 "If available select <small><tt>pulse</tt></small> as input / output device.</i>"
-msgstr ""
+msgstr "<i>Určete zvuková zařízení používaná pro nahrávání a přehrávání zvukových příloh. \n"
+"Je-li k dispozici, vyberte <small><tt>impuls</tt></small> jako vstupní / výstupní zařízení.</i>"
 
 #: ../ui/settings.glade:1167
 msgid "<i>Specify the tools that will be selected if a button of the stylus is pressed or the eraser is used. After releasing the button, the previous tool will be selected.</i>"
-msgstr ""
+msgstr "<i>Určete nástroje, které budou vybrány, pokud je stisknuto tlačítko pera nebo je použita guma. Po uvolnění tlačítka bude vybrán předchozí nástroj.</i>"
 
 #: ../ui/settings.glade:353
 msgid "<i>This name will be proposed if you save a new document.</i>"
-msgstr ""
+msgstr "<i>Tento název bude navržen, když uložíte nový dokument.</i>"
 
 #: ../ui/settings.glade:2692
 msgid "<i>To make sure on 100% zoom the size of elements is natural. (requires restart)</i>"
