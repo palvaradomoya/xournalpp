@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-29 19:41+0000\n"
-"PO-Revision-Date: 2020-01-07 18:57\n"
+"PO-Revision-Date: 2020-01-07 19:06\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -2480,36 +2480,36 @@ msgstr "Toto je experimentální funkce! Používej s opatrností."
 
 #: ../ui/settings.glade:1507
 msgid "Timeout"
-msgstr ""
+msgstr "Časový limit"
 
 #: ../ui/settings.glade:1420 ../ui/settings.glade:1889
 #: ../ui/settingsDeviceClassConfig.glade:45
 msgid "Touchscreen"
-msgstr ""
+msgstr "Dotyková obrazovka"
 
 #: ../ui/fillTransparency.glade:14
 msgid "Transparency settings"
-msgstr ""
+msgstr "Nastavení průhlednosti"
 
 #: ../ui/settings.glade:3377
 msgid "Try to select object first."
-msgstr ""
+msgstr "Pokuste se nejdříve vybrat objekt."
 
 #: ../ui/settings.glade:3382 ../ui/settings.glade:3412
 msgid "Try to select object first; if nothing selected then show floating toolbox if enabled."
-msgstr ""
+msgstr "Pokus se nejdříve vybrat objekt; pokud není nic vybráno, zobrazí se plovoucí panel nástrojů, pokud je povolen."
 
 #: ../ui/settings.glade:3038
 msgid "Usually 0 or 1"
-msgstr ""
+msgstr "Obvykle 0 nebo 1"
 
 #: ../ui/about.glade:101
 msgid "Version"
-msgstr ""
+msgstr "Verze"
 
 #: ../ui/pluginEntry.glade:94
 msgid "Version: "
-msgstr ""
+msgstr "Verze: "
 
 #: ../ui/settings.glade:2527
 msgid "View"
@@ -2525,11 +2525,11 @@ msgstr "Šířka:"
 
 #: ../ui/about.glade:232
 msgid "With help from the community"
-msgstr ""
+msgstr "S pomocí komunity"
 
 #: ../ui/settings.glade:1858
 msgid "Workaround"
-msgstr ""
+msgstr "Zástupné řešení"
 
 #: ../ui/settings.glade:112
 msgid "Xournal++ Preferences"
@@ -2541,63 +2541,63 @@ msgstr "Zvětšení"
 
 #: ../ui/settings.glade:1789
 msgid "Zoom Gestures"
-msgstr ""
+msgstr "Gesta přiblížení"
 
 #: ../ui/settings.glade:2661
 msgid "Zoom Speed"
-msgstr ""
+msgstr "Rychlost přiblížení"
 
 #: ../ui/main.glade:633
 msgid "_1 Column"
-msgstr ""
+msgstr "_1 sloupec"
 
 #: ../ui/main.glade:738
 msgid "_1 Row"
-msgstr ""
+msgstr "_1 řádek"
 
 #: ../ui/main.glade:644
 msgid "_2 Columns"
-msgstr ""
+msgstr "_2 sloupce"
 
 #: ../ui/main.glade:749
 msgid "_2 Rows"
-msgstr ""
+msgstr "_2 řádky"
 
 #: ../ui/main.glade:655
 msgid "_3 Columns"
-msgstr ""
+msgstr "_3 sloupce"
 
 #: ../ui/main.glade:760
 msgid "_3 Rows"
-msgstr ""
+msgstr "_3 Řádky"
 
 #: ../ui/main.glade:666
 msgid "_4 Columns"
-msgstr ""
+msgstr "_4 Sloupce"
 
 #: ../ui/main.glade:771
 msgid "_4 Rows"
-msgstr ""
+msgstr "_4 Řádky"
 
 #: ../ui/main.glade:677
 msgid "_5 Columns"
-msgstr ""
+msgstr "_5 Sloupců"
 
 #: ../ui/main.glade:782
 msgid "_5 Rows"
-msgstr ""
+msgstr "_5 Řádků"
 
 #: ../ui/main.glade:688
 msgid "_6 Columns"
-msgstr ""
+msgstr "_6 Sloupců"
 
 #: ../ui/main.glade:793
 msgid "_6 Rows"
-msgstr ""
+msgstr "_6 Řádků"
 
 #: ../ui/main.glade:699
 msgid "_7 Columns"
-msgstr ""
+msgstr "_7 Sloupců"
 
 #: ../ui/main.glade:804
 msgid "_7 Rows"
