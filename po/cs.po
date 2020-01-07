@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-29 19:41+0000\n"
-"PO-Revision-Date: 2020-01-07 15:17\n"
+"PO-Revision-Date: 2020-01-07 15:30\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -1862,15 +1862,15 @@ msgstr "Tmavý motiv (vyžaduje restart)"
 
 #: ../ui/settings.glade:498
 msgid "Default Save Name"
-msgstr ""
+msgstr "Výchozí název pro uložení"
 
 #: ../ui/settings.glade:3955
 msgid "Default Seek Time (in seconds)"
-msgstr ""
+msgstr "Výchozí přeskočený čas na začátku nahrávky (v sekundách)"
 
 #: ../ui/settings.glade:386
 msgid "Default name: "
-msgstr ""
+msgstr "Výchozí název: "
 
 #: ../ui/settings.glade:3608
 msgid "Defaults"
@@ -1886,7 +1886,7 @@ msgstr "Odstranit čáru"
 
 #: ../ui/main.glade:2129
 msgid "Delete this page"
-msgstr ""
+msgstr "Odstranit tuto stránku"
 
 #: ../ui/settingsButtonConfig.glade:25
 msgid "Device"
@@ -1894,7 +1894,7 @@ msgstr "Zařízení"
 
 #: ../ui/settings.glade:1627
 msgid "Disable"
-msgstr ""
+msgstr "Vypnout"
 
 #: ../ui/settingsButtonConfig.glade:50
 msgid "Disable drawing for this device"
@@ -1902,30 +1902,33 @@ msgstr "Zakázat kreslení tímto zařízením"
 
 #: ../ui/settings.glade:2308
 msgid "Disable scrollbar fade out"
-msgstr ""
+msgstr "Vypnout vyblednutí posuvníku"
 
 #: ../ui/settingsDeviceClassConfig.glade:41
 msgid "Disabled"
-msgstr ""
+msgstr "Vypnuto"
 
 #: ../ui/settings.glade:1496
 msgid "Disabling Method"
-msgstr ""
+msgstr "Vypnutí metody"
 
 #: ../ui/settings.glade:2786
 msgid "Display DPI Calibration"
-msgstr ""
+msgstr "DPI Kalibrace displeje"
 
 #: ../ui/settings.glade:3271
 msgid "Do not draw for inputs of short time and length unless it comes in short succession. Instead, show floating toolbox."
-msgstr ""
+msgstr "Nekresli pro krátké vstupy, pokud nepřijdou v rychle zasebou. Namísto toho zobraz plovoucí panel nástrojů."
 
 #: ../ui/settings.glade:648 ../ui/settings.glade:815 ../ui/settings.glade:3184
 msgid "Drag LEFT from start point acts like shift key is being held.\n"
 "Drag UP acts as if Control key is being held.\n\n"
 "Determination Radius: Radius at which modifiers will lock in until finished drawing.\n\n"
 "<i>Useful for operating without keyboard.</i>"
-msgstr ""
+msgstr "Tažení VLEVO od počátečního bodu se chová, jako když je klávesa shift stisknuta.\n"
+"Tažení NAHORU se chová, jako když je klávesa Control stisknuta.\n\n"
+"Poloměr určení: poloměr, ve kterém se modifikátory uzamknou do dokončeného kreslení.\n\n"
+"<i>Užitečný pro práci bez klávesnice.</i>"
 
 #: ../ui/toolbarCustomizeDialog.glade:57
 msgid "Drag and drop Components fom here to the toolbars and back."
@@ -1933,23 +1936,23 @@ msgstr "Přetáhněte komponenty odsud do nástrojové lišty a zpět."
 
 #: ../ui/main.glade:1364
 msgid "Draw _Line"
-msgstr ""
+msgstr "Nakreslit _čáru"
 
 #: ../ui/settings.glade:3462
 msgid "Drawing Area"
-msgstr ""
+msgstr "Oblast kreslení"
 
 #: ../ui/settings.glade:3234
 msgid "Drawing Tools - Set Modifiers by Draw Direction (Experimental)"
-msgstr ""
+msgstr "Nástroje kreslení - nastavit modifikátory podle směru kreslení (experimentální)"
 
 #: ../ui/main.glade:2533
 msgid "Duplicate"
-msgstr ""
+msgstr "Duplikovat"
 
 #: ../ui/main.glade:2570
 msgid "Edit (not implemented yet)"
-msgstr ""
+msgstr "Upravit (zatím neimplementováno)"
 
 #: ../ui/settings.glade:1615
 msgid "Enable"
