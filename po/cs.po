@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-29 19:41+0000\n"
-"PO-Revision-Date: 2020-01-07 12:06\n"
+"PO-Revision-Date: 2020-01-07 12:15\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -2268,12 +2268,12 @@ msgstr "Pozadí _papíru"
 #: ../ui/about.glade:247
 msgid "Partially based on Xournal\n"
 "by Denis Auroux"
-msgstr "Částečně založené na Xournal\n"
-"Denis Auroux"
+msgstr "Částečně založeno na Xournal\n"
+"od Denis Auroux"
 
 #: ../ui/main.glade:1832
 msgid "Pause"
-msgstr ""
+msgstr "Pozastavit"
 
 #: ../ui/main.glade:1459
 msgid "Pen _Options"
@@ -2281,19 +2281,19 @@ msgstr "N_astavení pera"
 
 #: ../ui/settings.glade:3988
 msgid "Playback Settings"
-msgstr ""
+msgstr "Nastavení přehrávání"
 
 #: ../ui/plugin.glade:14
 msgid "Plugin Manager"
-msgstr ""
+msgstr "Správce doplňků"
 
 #: ../ui/main.glade:1900
 msgid "Plugin _Manager"
-msgstr ""
+msgstr "_Správce doplňků"
 
 #: ../ui/plugin.glade:121
 msgid "Plugin changes are only applied after Xournal++ was restarted"
-msgstr ""
+msgstr "Změny doplňků jsou aplikovány až po restartování Xournal++"
 
 #: ../ui/main.glade:440
 msgid "Preferences"
@@ -2301,7 +2301,7 @@ msgstr "Nastavení"
 
 #: ../ui/settings.glade:2496
 msgid "Presentation Mode"
-msgstr ""
+msgstr "Režim prezentace"
 
 #: ../ui/settings.glade:1136
 msgid "Pressure Sensitivity"
