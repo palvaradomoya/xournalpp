@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-29 19:41+0000\n"
-"PO-Revision-Date: 2020-01-07 15:37\n"
+"PO-Revision-Date: 2020-01-07 17:00\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -1992,7 +1992,7 @@ msgstr "Povol interní rozpoznávání ruky"
 
 #: ../ui/settings.glade:643
 msgid "Enable new input system (Requires restart)"
-msgstr ""
+msgstr "Povolit nový vstupní systém (vyžaduje restart)"
 
 #: ../ui/settings.glade:1767
 msgid "Enable zoom gestures (requires restart)"
