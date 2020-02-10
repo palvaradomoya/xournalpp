@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-09 00:42+0000\n"
-"PO-Revision-Date: 2020-02-10 09:38\n"
+"PO-Revision-Date: 2020-02-10 09:53\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -428,7 +428,7 @@ msgstr "Dibujar rectángulo"
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:34
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:410
 msgid "Draw Spline"
-msgstr ""
+msgstr "Dibujar curva spline"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:103
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:32
@@ -543,7 +543,7 @@ msgstr "Tipo de letra"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:433
 msgid "Forward"
-msgstr ""
+msgstr "Siguiente"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:364
 msgid "Go to first page"
@@ -1213,7 +1213,7 @@ msgstr "Intentando guardar de emergencia el documento abierto actualmente…"
 
 #: ../src/gui/PageView.cpp:355
 msgid "Unable to play audio recording {1}"
-msgstr ""
+msgstr "No se puede reproducir la grabación de audio {1}"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:325
 #: ../src/undo/UndoRedoHandler.cpp:203
@@ -1583,7 +1583,7 @@ msgstr "... Y cuánto tiempo debe haber pasado desde la última carrera.\n\n"
 
 #: ../ui/settings.glade:3968
 msgid "1,00"
-msgstr ""
+msgstr "1,00"
 
 #: ../ui/images.glade:88
 msgid "<b>... or select already used Image:</b>"
@@ -1873,7 +1873,7 @@ msgstr "Nombre predeterminado para guardar"
 
 #: ../ui/settings.glade:3955
 msgid "Default Seek Time (in seconds)"
-msgstr ""
+msgstr "Tiempo de búsqueda predeterminado (en segundos)"
 
 #: ../ui/settings.glade:386
 msgid "Default name: "
@@ -2233,7 +2233,7 @@ msgstr "_Capa nueva"
 
 #: ../ui/settings.glade:3025
 msgid "Offset first page this many pages when <b>Pair Pages</b> enabled"
-msgstr ""
+msgstr "Desfasar la primera página tantas páginas cuando <b>páginas emparejadas</b> está activado"
 
 #: ../ui/settings.glade:849
 msgid "Options"
@@ -2291,7 +2291,7 @@ msgstr "_Opciones de lápiz"
 
 #: ../ui/settings.glade:3988
 msgid "Playback Settings"
-msgstr ""
+msgstr "Ajustes de reproducción"
 
 #: ../ui/plugin.glade:14
 msgid "Plugin Manager"
