@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-09 00:42+0000\n"
-"PO-Revision-Date: 2020-01-09 00:45\n"
+"PO-Revision-Date: 2020-02-10 09:38\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -85,7 +85,7 @@ msgstr "No se pudo procesar el atributo «{1}» como «double»; el valor es «{
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:97
 msgid "Attribute \"{1}\" could not be parsed as double, the value is nullptr"
-msgstr ""
+msgstr "El atributo \"{1}\" no se pudo analizar como double, el valor es nullptr"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:121
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:140
@@ -94,7 +94,7 @@ msgstr "No se pudo procesar el atributo «{1}» como «int»; el valor es «{2}�
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:114
 msgid "Attribute \"{1}\" could not be parsed as int, the value is nullptr"
-msgstr ""
+msgstr "El atributo \"{1}\" no se pudo analizar como int, el valor es nullptr"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:159
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:179
@@ -103,7 +103,7 @@ msgstr "No se pudo procesar el atributo «{1}» como «size_t»; el valor es «{
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:152
 msgid "Attribute \"{1}\" could not be parsed as size_t, the value is nullptr"
-msgstr ""
+msgstr "El atributo \"{1}\" no se pudo analizar como size_t, el valor es nullptr"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:46
 msgid "Attribute color not set!"
