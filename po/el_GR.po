@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-12 03:39+0000\n"
-"PO-Revision-Date: 2020-02-12 03:45\n"
+"PO-Revision-Date: 2020-02-12 23:45\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -18,7 +18,8 @@ msgstr ""
 #: ../src/control/XournalMain.cpp:508
 msgid "\n\n"
 "Will now attempt to run without this file."
-msgstr ""
+msgstr "\n\n"
+"Θα προσθέσουμε να εκτελέσουμε χωρίς αυτό το αρχείο."
 
 #: ../src/control/XournalMain.cpp:488
 msgid "\n"
@@ -28,15 +29,15 @@ msgstr ""
 #: ../src/gui/MainWindow.cpp:630
 msgctxt "Page {pagenumber} \"of {pagecount}\""
 msgid " of {1}{2}"
-msgstr ""
+msgstr " από {1}{2}"
 
 #: ../src/control/settings/Settings.cpp:100
 msgid "%F-Note-%H-%M"
-msgstr ""
+msgstr "%F-Σημείωση-%H-%M"
 
 #: ../src/gui/dialog/SettingsDialog.cpp:102
 msgid "<b>No devices were found. This seems wrong - maybe file a bug report?</b>"
-msgstr ""
+msgstr "<b>Δεν βρέθηκαν συσκευές. Κάτι δεν πάει καλά - μήπως να κάνετε μια αναφορά σφάλματος;</b>"
 
 #: ../src/control/XournalMain.cpp:503
 msgid "<span foreground='red' size='x-large'>Missing the needed UI file:\n"
