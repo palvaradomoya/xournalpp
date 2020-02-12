@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-09 00:42+0000\n"
-"PO-Revision-Date: 2020-01-27 13:26\n"
+"POT-Creation-Date: 2020-02-12 03:39+0000\n"
+"PO-Revision-Date: 2020-02-12 03:45\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -736,8 +736,8 @@ msgstr "Nächste beschriftete Seite"
 msgid "No device"
 msgstr "Kein Gerät"
 
-#: ../src/pdf/base/XojCairoPdfExport.cpp:67
-#: ../src/pdf/base/XojCairoPdfExport.cpp:105
+#: ../src/pdf/base/XojCairoPdfExport.cpp:117
+#: ../src/pdf/base/XojCairoPdfExport.cpp:155
 msgid "No pages to export!"
 msgstr "Keine Seiten zu exportieren!"
 
