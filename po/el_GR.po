@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-12 03:39+0000\n"
-"PO-Revision-Date: 2020-02-12 23:55\n"
+"PO-Revision-Date: 2020-02-13 00:35\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -128,23 +128,23 @@ msgstr ""
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:365
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:436
 msgid "Back"
-msgstr ""
+msgstr "Πίσω"
 
 #: ../src/gui/sidebar/previews/layer/SidebarPreviewLayerEntry.cpp:19
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:191
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:231
 msgid "Background"
-msgstr ""
+msgstr "Υπόβαθρο"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:10
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:103
 msgid "Black"
-msgstr ""
+msgstr "Μαύρο"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:14
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:107
 msgid "Blue"
-msgstr ""
+msgstr "Μπλε"
 
 #: ../src/control/Control.cpp:2007 ../src/control/Control.cpp:2459
 #: ../src/control/XournalMain.cpp:118
