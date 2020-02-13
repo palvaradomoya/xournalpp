@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-12 03:39+0000\n"
-"PO-Revision-Date: 2020-02-13 11:57\n"
+"PO-Revision-Date: 2020-02-13 22:15\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -112,7 +112,8 @@ msgstr ""
 #: ../src/control/AudioController.cpp:92
 msgid "Audio folder not set! Recording won't work!\n"
 "Please set the recording folder under \"Preferences > Audio recording\""
-msgstr ""
+msgstr "Δεν έχει ορισθεί φάκελος ήχου! Η έγγραφη δεν θα λειτουργήσει!\n"
+"Παρακαλώ να ορίσετε τον φάκελο στις \"Προτιμήσεις > Εγγραφή ήχου\""
 
 #: ../src/control/Control.cpp:242
 msgid "Autosave failed with an error: {1}"
