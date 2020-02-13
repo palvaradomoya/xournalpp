@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-12 03:39+0000\n"
-"PO-Revision-Date: 2020-02-13 00:46\n"
+"PO-Revision-Date: 2020-02-13 00:56\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -161,11 +161,11 @@ msgstr "Αλλαγή γραμματοσειράς"
 
 #: ../src/undo/FillUndoAction.cpp:79
 msgid "Change stroke fill"
-msgstr ""
+msgstr "Αλλαγή χρώματος μολυβιάς"
 
 #: ../src/undo/SizeUndoAction.cpp:104
 msgid "Change stroke width"
-msgstr ""
+msgstr "Αλλαγή πάχους μολυβιάς"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:70
 msgid "Color \"{1}\" unknown (not defined in default color list)!"
