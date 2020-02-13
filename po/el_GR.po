@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-12 03:39+0000\n"
-"PO-Revision-Date: 2020-02-13 00:35\n"
+"PO-Revision-Date: 2020-02-13 00:46\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -149,15 +149,15 @@ msgstr "Μπλε"
 #: ../src/control/Control.cpp:2007 ../src/control/Control.cpp:2459
 #: ../src/control/XournalMain.cpp:118
 msgid "Cancel"
-msgstr ""
+msgstr "Ακύρωση"
 
 #: ../src/undo/ColorUndoAction.cpp:90
 msgid "Change color"
-msgstr ""
+msgstr "Αλλαγή χρώματος"
 
 #: ../src/undo/FontUndoAction.cpp:105
 msgid "Change font"
-msgstr ""
+msgstr "Αλλαγή γραμματοσειράς"
 
 #: ../src/undo/FillUndoAction.cpp:79
 msgid "Change stroke fill"
