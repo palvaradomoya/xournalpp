@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-12 03:39+0000\n"
-"PO-Revision-Date: 2020-02-13 22:15\n"
+"PO-Revision-Date: 2020-02-13 22:27\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -121,7 +121,7 @@ msgstr "Η αυτόματη αποθήκευση απέτυχε με σφάλμ�
 
 #: ../src/control/Control.cpp:208
 msgid "Autosave renamed from {1} to {2}"
-msgstr ""
+msgstr "Η αυτόματη αποθήκευση μετονομάστηκε από {1} σε {2}"
 
 #: ../src/control/jobs/AutosaveJob.cpp:44
 msgid "Autosaving to {1}"
@@ -313,15 +313,15 @@ msgstr "Δημιουργία νέου στρώματος"
 
 #: ../src/gui/dialog/FormatDialog.cpp:67
 msgid "Custom"
-msgstr ""
+msgstr "Προσαρμοσμένο"
 
 #: ../src/control/jobs/CustomExportJob.cpp:18
 msgid "Custom Export"
-msgstr ""
+msgstr "Προσαρμοσμένη εξαγωγή"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:354
 msgid "Customize Toolbars"
-msgstr ""
+msgstr "Προσαρμογή γραμμών εργαλείων"
 
 #: ../src/gui/dialog/ToolbarManageDialog.cpp:29
 msgid "Customized"
