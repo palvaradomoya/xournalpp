@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-12 03:39+0000\n"
-"PO-Revision-Date: 2020-02-13 11:38\n"
+"PO-Revision-Date: 2020-02-13 11:47\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -230,11 +230,11 @@ msgstr "Απέτυχε η φόρτωση του αρχείου pagetemplates.ini
 
 #: ../src/control/xojfile/LoadHandler.cpp:773
 msgid "Could not open attachment: {1}. Error message: Could not read file"
-msgstr ""
+msgstr "Απέτυχε το άνοιγμα του συνημμένου: {1}. Μήνυμα σφάλματος: Δεν ήταν δυνατή η ανάγνωση του αρχείου"
 
 #: ../src/control/xojfile/LoadHandler.cpp:782
 msgid "Could not open attachment: {1}. Error message: Could not write file"
-msgstr ""
+msgstr "Απέτυχε το άνοιγμα του συνημμένου: {1}. Μήνυμα σφάλματος: Δεν ήταν δυνατή η εγγραφή του αρχείου"
 
 #: ../src/control/xojfile/LoadHandler.cpp:754
 #: ../src/control/xojfile/LoadHandler.cpp:1004
@@ -308,7 +308,7 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:74
 msgid "Create new layer"
-msgstr ""
+msgstr "Δημιουργία νέου στρώματος"
 
 #: ../src/gui/dialog/FormatDialog.cpp:67
 msgid "Custom"
@@ -328,16 +328,16 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:330
 msgid "Cut"
-msgstr ""
+msgstr "Αποκοπή"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:401
 msgid "Default Tool"
-msgstr ""
+msgstr "Προεπιλεγμένο εργαλείο"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:336
 #: ../src/undo/DeleteUndoAction.cpp:74
 msgid "Delete"
-msgstr ""
+msgstr "Διαγραφή"
 
 #: ../src/control/XournalMain.cpp:117
 msgid "Delete Logfile"
@@ -345,11 +345,11 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:385
 msgid "Delete current page"
-msgstr ""
+msgstr "Διαγραφή της τρέχουσας σελίδας"
 
 #: ../src/control/XournalMain.cpp:161
 msgid "Delete file"
-msgstr ""
+msgstr "Διαγραφή αρχείου"
 
 #: ../src/undo/RemoveLayerUndoAction.cpp:28
 msgid "Delete layer"
