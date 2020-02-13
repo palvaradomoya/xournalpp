@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-12 03:39+0000\n"
-"PO-Revision-Date: 2020-02-13 22:37\n"
+"PO-Revision-Date: 2020-02-13 22:54\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -688,7 +688,7 @@ msgstr ""
 
 #: ../src/undo/MoveUndoAction.cpp:17
 msgid "Move"
-msgstr ""
+msgstr "Μετακίνηση"
 
 #: ../src/undo/MoveLayerUndoAction.cpp:27
 msgid "Move layer"
@@ -765,11 +765,11 @@ msgstr ""
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:18
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:111
 msgid "Orange"
-msgstr ""
+msgstr "Πορτοκαλί"
 
 #: ../src/control/jobs/PdfExportJob.cpp:9
 msgid "PDF Export"
-msgstr ""
+msgstr "Εξαγωγή σε PDF"
 
 #: ../src/gui/MainWindow.cpp:628
 msgid "PDF Page {1}"
@@ -781,13 +781,13 @@ msgstr ""
 
 #: ../src/control/XournalMain.cpp:254
 msgid "PDF file successfully created"
-msgstr ""
+msgstr "Το αρχείο PDF δημιουργήθηκε με επιτυχία"
 
 #: ../src/control/jobs/CustomExportJob.cpp:20
 #: ../src/control/jobs/PdfExportJob.cpp:13
 #: ../src/control/stockdlg/XojOpenDlg.cpp:42
 msgid "PDF files"
-msgstr ""
+msgstr "Αρχεία PDF"
 
 #: ../src/control/XournalMain.cpp:270
 msgid "PDF output filename"
@@ -807,15 +807,15 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolPageSpinner.cpp:42
 msgid "Page"
-msgstr ""
+msgstr "Σελίδα"
 
 #: ../src/gui/sidebar/previews/page/SidebarPreviewPages.cpp:61
 msgid "Page Preview"
-msgstr ""
+msgstr "Προεπισκόπηση Σελίδας"
 
 #: ../src/undo/PageBackgroundChangedUndoAction.cpp:81
 msgid "Page background changed"
-msgstr ""
+msgstr "Το φόντο σελίδας άλλαξε"
 
 #: ../src/undo/InsertDeletePageUndoAction.cpp:98
 msgid "Page deleted"
@@ -827,7 +827,7 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolPageSpinner.cpp:31
 msgid "Page number"
-msgstr ""
+msgstr "Αριθμός σελίδας"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:348
 msgid "Paired pages"
@@ -836,7 +836,7 @@ msgstr ""
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:332
 #: ../src/undo/AddUndoAction.cpp:77
 msgid "Paste"
-msgstr ""
+msgstr "Επικόλληση"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:427
 msgid "Pause / Play"
@@ -845,11 +845,11 @@ msgstr ""
 #: ../src/gui/dialog/ButtonConfigGui.cpp:57
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:228
 msgid "Pen"
-msgstr ""
+msgstr "Στυλό"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:19
 msgid "Plain"
-msgstr ""
+msgstr "Απλό"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:418
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:20
@@ -859,7 +859,7 @@ msgstr ""
 
 #: ../src/gui/dialog/ToolbarManageDialog.cpp:17
 msgid "Predefined"
-msgstr ""
+msgstr "Προκαθορισμένο"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:350
 msgid "Presentation mode"
