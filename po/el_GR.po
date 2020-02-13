@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-12 03:39+0000\n"
-"PO-Revision-Date: 2020-02-13 22:27\n"
+"PO-Revision-Date: 2020-02-13 22:37\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -325,7 +325,7 @@ msgstr "Προσαρμογή γραμμών εργαλείων"
 
 #: ../src/gui/dialog/ToolbarManageDialog.cpp:29
 msgid "Customized"
-msgstr ""
+msgstr "Προσαρμοσμένο"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:330
 msgid "Cut"
@@ -388,7 +388,7 @@ msgstr ""
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:24
 msgid "Dotted"
-msgstr ""
+msgstr "Διάστικτη"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:101
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:30
@@ -438,7 +438,7 @@ msgstr ""
 
 #: ../src/undo/TextBoxUndoAction.cpp:36
 msgid "Edit text"
-msgstr ""
+msgstr "Επεξεργασία κειμένου"
 
 #: ../src/undo/EmergencySaveRestore.cpp:19
 msgid "Emergency saved document"
@@ -548,7 +548,7 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:366
 msgid "Go to page"
-msgstr ""
+msgstr "Μετάβαση στη σελίδα"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:370
 msgid "Go to previous layer"
@@ -560,17 +560,17 @@ msgstr ""
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:23
 msgid "Graph"
-msgstr ""
+msgstr "Γράφημα"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:15
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:108
 msgid "Gray"
-msgstr ""
+msgstr "Γκρι"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:11
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:104
 msgid "Green"
-msgstr ""
+msgstr "Πράσινο"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:342
 msgid "Grid Snapping"
@@ -579,11 +579,11 @@ msgstr ""
 #: ../src/gui/dialog/ButtonConfigGui.cpp:65
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:419
 msgid "Hand"
-msgstr ""
+msgstr "Χέρι"
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:68
 msgid "Hide all"
-msgstr ""
+msgstr "Aπόκρυψη όλων"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:59
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:396
@@ -593,7 +593,7 @@ msgstr ""
 #: ../src/control/pagetype/PageTypeHandler.cpp:30
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:400
 msgid "Image"
-msgstr ""
+msgstr "Εικόνα"
 
 #: ../src/control/XournalMain.cpp:224
 msgid "Image file successfully created"
@@ -605,7 +605,7 @@ msgstr ""
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:17
 msgid "Images"
-msgstr ""
+msgstr "Εικόνες"
 
 #: ../src/undo/InsertUndoAction.cpp:79
 msgid "Insert elements"
@@ -613,7 +613,7 @@ msgstr ""
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:61 ../src/undo/InsertUndoAction.cpp:34
 msgid "Insert image"
-msgstr ""
+msgstr "Εισαγωγή εικόνας"
 
 #: ../src/undo/InsertUndoAction.cpp:36
 msgid "Insert latex"
@@ -625,7 +625,7 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:381
 msgid "Insert page"
-msgstr ""
+msgstr "Εισαγωγή σελίδας"
 
 #: ../src/control/XournalMain.cpp:272
 msgid "Jump to Page (first Page: 1)"
@@ -633,7 +633,7 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:246
 msgid "Layer"
-msgstr ""
+msgstr "Στρώση"
 
 #: ../src/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:56
 msgid "Layer Preview"
@@ -652,23 +652,23 @@ msgstr ""
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:12
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:105
 msgid "Light Blue"
-msgstr ""
+msgstr "Ανοικτό μπλε"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:13
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:106
 msgid "Light Green"
-msgstr ""
+msgstr "Ανοικτό πράσινο"
 
 #: ../src/gui/PageView.cpp:699
 #: ../src/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:76
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:15
 msgid "Loading..."
-msgstr ""
+msgstr "Φόρτωση..."
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:17
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:110
 msgid "Magenta"
-msgstr ""
+msgstr "Ματζέντα"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:353
 msgid "Manage Toolbars"
