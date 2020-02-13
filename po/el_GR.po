@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-12 03:39+0000\n"
-"PO-Revision-Date: 2020-02-13 00:56\n"
+"PO-Revision-Date: 2020-02-13 01:05\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -169,33 +169,33 @@ msgstr "Αλλαγή πάχους μολυβιάς"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:70
 msgid "Color \"{1}\" unknown (not defined in default color list)!"
-msgstr ""
+msgstr "Άγνωστο χρώμα \"{1}\" (δεν έχει ορισθεί στην προεπιλεγμένη λίστα χρωμάτων)!"
 
 #: ../src/gui/sidebar/indextree/SidebarIndexPage.cpp:225
 msgid "Contents"
-msgstr ""
+msgstr "Περιεχόμενα"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:331
 #: ../src/gui/toolbarMenubar/model/ToolbarModel.cpp:75
 #: ../src/gui/toolbarMenubar/model/ToolbarModel.cpp:81
 msgid "Copy"
-msgstr ""
+msgstr "Αντιγραφή"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:28
 msgid "Copy current"
-msgstr ""
+msgstr "Αντιγραφή τρέχοντος"
 
 #: ../src/undo/CopyUndoAction.cpp:60
 msgid "Copy page"
-msgstr ""
+msgstr "Αντιγραφή σελίδας"
 
 #: ../src/control/jobs/SaveJob.cpp:99
 msgid "Could not create backup! (The file was created from an older Xournal version)"
-msgstr ""
+msgstr "Δεν ήταν δυνατή η δημιουργία αντιγράφου ασφαλείας! (Το αρχείο δημιουργήθηκε σε παλαιότερη έκδοση του Xournal)"
 
 #: ../src/util/Util.cpp:103
 msgid "Could not create folder: {1}"
-msgstr ""
+msgstr "Δεν ήταν δυνατή η δημιουργία του φακέλου: {1}"
 
 #: ../src/control/LatexController.cpp:85
 msgid "Could not find kpsewhich in PATH; please install kpsewhich and put it on path."
