@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-12 03:39+0000\n"
-"PO-Revision-Date: 2020-02-13 22:54\n"
+"PO-Revision-Date: 2020-02-15 19:34\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -342,7 +342,7 @@ msgstr "Διαγραφή"
 
 #: ../src/control/XournalMain.cpp:117
 msgid "Delete Logfile"
-msgstr ""
+msgstr "Διαγραφή αρχείου καταγραφής"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:385
 msgid "Delete current page"
@@ -364,7 +364,9 @@ msgstr "Απόρριψη"
 msgid "Do not open Autosave files. They may will be overwritten!\n"
 "Copy the files to another folder.\n"
 "Files from Folder {1} cannot be opened."
-msgstr ""
+msgstr "Μην ανοίγετε αρχεία αυτόματης αποθήκευσης. Μπορεί να επανεγγραφούν!\n"
+"Αντιγράψτε τα αρχεία σε άλλο φάκελο.\n"
+"Τα αρχεία στον Φάκελο {1} δεν μπορούν να ανοιχτούν."
 
 #: ../src/control/jobs/BaseExportJob.cpp:32
 msgid "Do not overwrite the background PDF! This will cause errors!"
