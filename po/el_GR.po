@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-12 03:39+0000\n"
-"PO-Revision-Date: 2020-02-15 19:34\n"
+"PO-Revision-Date: 2020-02-15 19:44\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -370,23 +370,23 @@ msgstr "Μην ανοίγετε αρχεία αυτόματης αποθήκευ
 
 #: ../src/control/jobs/BaseExportJob.cpp:32
 msgid "Do not overwrite the background PDF! This will cause errors!"
-msgstr ""
+msgstr "Μην επανεγγράφετε το PDF του υποβάθρου! Θα προκαλέσει προβλήματα!"
 
 #: ../src/control/Control.cpp:2450
 msgid "Document file was removed."
-msgstr ""
+msgstr "Το έγγραφο αφαιρέθηκε."
 
 #: ../src/control/xojfile/LoadHandler.cpp:233
 msgid "Document is corrupted (no pages found in file)"
-msgstr ""
+msgstr "Το έγγραφο είναι κατεστραμμένο (δεν βρέθηκαν σελίδες στο αρχείο)"
 
 #: ../src/control/xojfile/LoadHandler.cpp:229
 msgid "Document is not complete (maybe the end is cut off?)"
-msgstr ""
+msgstr "Το έγγραφο είναι ημιτελές (μήπως έχει αποκοπεί το τέλος;)"
 
 #: ../src/model/Document.cpp:270 ../src/model/Document.cpp:278
 msgid "Document not loaded! ({1}), {2}"
-msgstr ""
+msgstr "Το έγγραφο δεν φορτώθηκε! ({1}),{2}"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:24
 msgid "Dotted"
@@ -396,18 +396,18 @@ msgstr "Διάστικτη"
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:30
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:406
 msgid "Draw Arrow"
-msgstr ""
+msgstr "Σχεδίασε Βέλος"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:99
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:29
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:405
 msgid "Draw Circle"
-msgstr ""
+msgstr "Σχεδίασε Κύκλο"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:95
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:31
 msgid "Draw Line"
-msgstr ""
+msgstr "Σχεδίασε Γραμμή"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:97
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:24
@@ -416,7 +416,7 @@ msgstr ""
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:94
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:404
 msgid "Draw Rectangle"
-msgstr ""
+msgstr "Σχεδίασε Παραλληλόγραμμο"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:107
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:34
