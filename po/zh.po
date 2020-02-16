@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-12 03:39+0000\n"
-"PO-Revision-Date: 2020-02-16 14:46\n"
+"PO-Revision-Date: 2020-02-16 14:55\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -428,7 +428,7 @@ msgstr "绘制矩形"
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:34
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:410
 msgid "Draw Spline"
-msgstr ""
+msgstr "绘制样条曲线"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:103
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:32
@@ -543,7 +543,7 @@ msgstr "字体"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:433
 msgid "Forward"
-msgstr ""
+msgstr "下一步"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:364
 msgid "Go to first page"
@@ -743,7 +743,7 @@ msgstr "没有要导出的页面！"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:93
 msgid "Normal drawing"
-msgstr ""
+msgstr "正常绘画"
 
 #: ../src/plugin/Plugin.cpp:308 ../src/plugin/Plugin.cpp:327
 msgid "OK"
@@ -912,7 +912,7 @@ msgstr "已从工具栏 {1} 移除工具项 ID {2}"
 
 #: ../src/gui/dialog/toolbarCustomize/ToolbarAdapter.cpp:158
 msgid "Removed tool item {1} from Toolbar {2} ID {3}"
-msgstr ""
+msgstr "已从ID为 {3} 的工具栏 {2} 中移除工具 {1}"
 
 #: ../src/util/XojMsgBox.cpp:71
 msgid "Replace"
@@ -920,7 +920,7 @@ msgstr "替换"
 
 #: ../src/control/xojfile/LoadHandler.cpp:1041
 msgid "Requested temporary file was not found for attachment {1}"
-msgstr ""
+msgstr "未找到附件 {1} 所要求的临时文件"
 
 #: ../src/control/XournalMain.cpp:162
 msgid "Restore file"
@@ -952,7 +952,7 @@ msgstr "SVG图形"
 
 #: ../src/control/jobs/CustomExportJob.cpp:25
 msgid "SVG with transparent background"
-msgstr ""
+msgstr "具有透明背景的SVG"
 
 #: ../src/control/Control.cpp:2451 ../src/control/jobs/SaveJob.cpp:13
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:319
@@ -1213,7 +1213,7 @@ msgstr "尝试紧急保存当前打开的文档…"
 
 #: ../src/gui/PageView.cpp:355
 msgid "Unable to play audio recording {1}"
-msgstr ""
+msgstr "无法播放音频录音 {1}"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:325
 #: ../src/undo/UndoRedoHandler.cpp:203
@@ -1394,11 +1394,11 @@ msgstr ""
 
 #: ../src/gui/dialog/PluginDialogEntry.cpp:28
 msgid "default disabled"
-msgstr ""
+msgstr "默认禁用"
 
 #: ../src/gui/dialog/PluginDialogEntry.cpp:28
 msgid "default enabled"
-msgstr ""
+msgstr "默认启用"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:251
 msgid "delete stroke"
@@ -1566,7 +1566,7 @@ msgstr "<b>...或者选择已用图片：</b>"
 
 #: ../ui/pageTemplate.glade:256
 msgid "<b>Background Color</b>"
-msgstr ""
+msgstr "<b>背景色</b>"
 
 #: ../ui/pageTemplate.glade:269
 msgid "<b>Background</b>"
