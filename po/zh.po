@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-12 03:39+0000\n"
-"PO-Revision-Date: 2020-02-16 15:07\n"
+"PO-Revision-Date: 2020-02-16 15:15\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -1570,7 +1570,7 @@ msgstr "<b>背景色</b>"
 
 #: ../ui/pageTemplate.glade:269
 msgid "<b>Background</b>"
-msgstr ""
+msgstr "<b>背景</b>"
 
 #: ../ui/toolbarCustomizeDialog.glade:141
 msgid "<b>Color</b>"
@@ -1636,7 +1636,7 @@ msgstr "<i>更改仅在新录音和播放时生效。</i>"
 
 #: ../ui/settings.glade:920
 msgid "<i>Define which tools will be selected if you press a mouse button. After you release the button the previously selected tool will be selected.</i>"
-msgstr ""
+msgstr "<i>设置你按鼠标时按钮将选择的工具。 松开按钮后，将恢复先前的工具。</i>"
 
 #: ../ui/exportSettings.glade:209
 msgid "<i>Example:</i> 1-3 or 1,3,5-7 etc."
@@ -1754,11 +1754,11 @@ msgstr "作者: "
 
 #: ../ui/about.glade:186
 msgid "Authors:"
-msgstr ""
+msgstr "作者:"
 
 #: ../ui/settings.glade:1522
 msgid "Autodetect"
-msgstr ""
+msgstr "自动检测"
 
 #: ../ui/settings.glade:566
 msgid "Autoloading Journals"
@@ -1786,7 +1786,7 @@ msgstr "边界颜色"
 
 #: ../ui/settings.glade:2000
 msgid "Border color for current page and other selections"
-msgstr ""
+msgstr "当前页面和其他选择的边框颜色"
 
 #: ../ui/about.glade:127
 msgid "Built on"
