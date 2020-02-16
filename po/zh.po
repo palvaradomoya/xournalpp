@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-12 03:39+0000\n"
-"PO-Revision-Date: 2020-02-16 14:55\n"
+"PO-Revision-Date: 2020-02-16 15:07\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -1612,7 +1612,7 @@ msgstr ""
 
 #: ../ui/pageTemplate.glade:132
 msgid "<b>Page size</b>"
-msgstr ""
+msgstr "<b>页面尺寸</b>"
 
 #: ../ui/pagesize.glade:142
 msgid "<b>Pagesize</b>"
@@ -1632,7 +1632,7 @@ msgstr ""
 
 #: ../ui/settings.glade:4002
 msgid "<i>Changes take only effect on new recordings and playbacks.</i>"
-msgstr ""
+msgstr "<i>更改仅在新录音和播放时生效。</i>"
 
 #: ../ui/settings.glade:920
 msgid "<i>Define which tools will be selected if you press a mouse button. After you release the button the previously selected tool will be selected.</i>"
