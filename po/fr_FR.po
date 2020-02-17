@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-12 03:39+0000\n"
-"PO-Revision-Date: 2020-02-17 12:40\n"
+"PO-Revision-Date: 2020-02-17 12:47\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -175,7 +175,7 @@ msgstr "Couleur \"{1}\" inconnue (non définie dans la liste de couleurs par dé
 
 #: ../src/gui/sidebar/indextree/SidebarIndexPage.cpp:225
 msgid "Contents"
-msgstr "Contenus"
+msgstr "Contenu"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:331
 #: ../src/gui/toolbarMenubar/model/ToolbarModel.cpp:75
