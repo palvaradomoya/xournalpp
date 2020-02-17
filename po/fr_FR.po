@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-12 03:39+0000\n"
-"PO-Revision-Date: 2020-02-12 03:45\n"
+"PO-Revision-Date: 2020-02-17 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -19,7 +19,7 @@ msgstr ""
 msgid "\n\n"
 "Will now attempt to run without this file."
 msgstr "\n\n"
-"Essai de démarrage sans fichier."
+"Essai de démarrage sans ce fichier."
 
 #: ../src/control/XournalMain.cpp:488
 msgid "\n"
@@ -60,7 +60,7 @@ msgstr "Chemin absolu pour la lecture des fichiers audio"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:399
 msgid "Add/Edit Tex"
-msgstr "Ajout/Edition d'un formulaire Tex"
+msgstr "Ajout/Édition d'un formulaire Tex"
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:35
 msgid "All files"
@@ -94,7 +94,7 @@ msgstr "L'attribut \"{1}\" n'a pas pu être analysé comme nombre entier (int), 
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:114
 msgid "Attribute \"{1}\" could not be parsed as int, the value is nullptr"
-msgstr "L'attribut \"{1}\" n'a pas pu être analysé comme nombre à virgule (double), la valeur est nullptr"
+msgstr "L'attribut \"{1}\" n'a pas pu être analysé comme nombre entier (int), la valeur est nullptr"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:159
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:179
