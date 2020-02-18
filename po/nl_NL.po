@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-12 03:39+0000\n"
-"PO-Revision-Date: 2020-02-12 03:45\n"
+"POT-Creation-Date: 2020-02-18 06:41+0000\n"
+"PO-Revision-Date: 2020-02-18 06:43\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
@@ -173,7 +173,7 @@ msgstr "Penseelbreedte aanpassen"
 msgid "Color \"{1}\" unknown (not defined in default color list)!"
 msgstr "De kleur '{1}' is onbekend (niet opgegeven op de standaard kleurenlijst)!"
 
-#: ../src/gui/sidebar/indextree/SidebarIndexPage.cpp:225
+#: ../src/gui/sidebar/indextree/SidebarIndexPage.cpp:226
 msgid "Contents"
 msgstr "Inhoud"
 
@@ -1336,7 +1336,7 @@ msgstr "De actie is afgebroken: je hebt geen PDF-pagina's om uit te kiezen.\n"
 msgid "You're using {1}/{2} branch. Send Bugreport will direct you to this repo's issue tracker."
 msgstr "Je gebruikt een versie uit {1}/{2}. Voor bugmeldingen wordt je doorgestuurd naar de probleemtracker van de repo."
 
-#: ../src/gui/sidebar/indextree/SidebarIndexPage.cpp:76
+#: ../src/gui/sidebar/indextree/SidebarIndexPage.cpp:77
 msgid "Your current document does not contain PDF Page no {1}\n"
 "Would you like to insert this page?\n\n"
 "Tip: You can select Journal → Paper Background → PDF Background to insert a PDF page."
