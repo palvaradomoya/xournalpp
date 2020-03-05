@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-18 06:41+0000\n"
-"PO-Revision-Date: 2020-03-05 08:16\n"
+"PO-Revision-Date: 2020-03-05 08:28\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Traditional, Hong Kong\n"
 "Language: zh_HK\n"
@@ -216,15 +216,15 @@ msgstr ""
 
 #: ../src/control/LatexController.cpp:386
 msgid "Could not load LaTeX PDF file"
-msgstr "無法載入 LaTeX PDF 文件"
+msgstr "無法載入 LaTeX PDF 檔案"
 
 #: ../src/control/LatexController.cpp:371
 msgid "Could not load LaTeX PDF file, File Error: {1}"
-msgstr "無法載入 LaTeX PDF 文件，文件錯誤：{1}"
+msgstr "無法載入 LaTeX PDF 檔案，檔案錯誤：{1}"
 
 #: ../src/control/LatexController.cpp:378
 msgid "Could not load LaTeX PDF file: {1}"
-msgstr "無法載入 LaTeX PDF 文件：{1}"
+msgstr "無法載入 LaTeX PDF 檔案：{1}"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:15
 msgid "Could not load pagetemplates.ini file"
@@ -280,11 +280,11 @@ msgstr "未能重複操作\"{1}\"\n"
 
 #: ../src/gui/dialog/toolbarCustomize/ToolbarAdapter.cpp:169
 msgid "Could not remove tool item from Toolbar {1} on position {2}"
-msgstr "無法從 {1} 工具條移除位置爲 {2} 的工具項目"
+msgstr "無法從 {1} 工具列移除位置爲 {2} 的工具項目"
 
 #: ../src/gui/dialog/toolbarCustomize/ToolbarAdapter.cpp:164
 msgid "Could not remove tool item {1} from Toolbar {2} on position {3}"
-msgstr "無法從 {2} 工具條移除位置爲 {3} 的 {1} 工具項目"
+msgstr "無法從 {2} 工具列移除位置爲 {3} 的 {1} 工具項目"
 
 #: ../src/control/Control.cpp:233
 msgid "Could not rename autosave file from \"{1}\" to \"{2}\": {3}"
@@ -296,7 +296,7 @@ msgstr "無法儲存 .tex 檔案： {1}"
 
 #: ../src/control/LatexController.cpp:128
 msgid "Could not start pdflatex: {1} (exit code: {2})"
-msgstr ""
+msgstr "無法開始 pdflatex：{1} (錯誤代碼：{2})"
 
 #: ../src/undo/UndoRedoHandler.cpp:108
 msgid "Could not undo \"{1}\"\n"
@@ -314,7 +314,7 @@ msgstr "未能寫上背景\"{1}\"，不管啦繼續哦..."
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:74
 msgid "Create new layer"
-msgstr ""
+msgstr "建立新圖層"
 
 #: ../src/gui/dialog/FormatDialog.cpp:67
 msgid "Custom"
@@ -322,11 +322,11 @@ msgstr "設置"
 
 #: ../src/control/jobs/CustomExportJob.cpp:18
 msgid "Custom Export"
-msgstr ""
+msgstr "自訂匯出"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:354
 msgid "Customize Toolbars"
-msgstr ""
+msgstr "自訂工具列"
 
 #: ../src/gui/dialog/ToolbarManageDialog.cpp:29
 msgid "Customized"
@@ -355,7 +355,7 @@ msgstr "刪除當前頁"
 
 #: ../src/control/XournalMain.cpp:161
 msgid "Delete file"
-msgstr ""
+msgstr "刪除檔案"
 
 #: ../src/undo/RemoveLayerUndoAction.cpp:28
 msgid "Delete layer"
@@ -369,11 +369,13 @@ msgstr "丟棄"
 msgid "Do not open Autosave files. They may will be overwritten!\n"
 "Copy the files to another folder.\n"
 "Files from Folder {1} cannot be opened."
-msgstr ""
+msgstr "不要打開自動儲存檔案。它們有機會被覆寫！\n"
+"複製檔案至另一個資料夾。\n"
+"資料夾 {1} 中的檔案無法被打開。"
 
 #: ../src/control/jobs/BaseExportJob.cpp:32
 msgid "Do not overwrite the background PDF! This will cause errors!"
-msgstr ""
+msgstr "不要覆寫背景 PDF！這樣會導致錯誤！"
 
 #: ../src/control/Control.cpp:2450
 msgid "Document file was removed."
@@ -381,7 +383,7 @@ msgstr "文檔已刪除。"
 
 #: ../src/control/xojfile/LoadHandler.cpp:233
 msgid "Document is corrupted (no pages found in file)"
-msgstr ""
+msgstr "文件損毀 (檔案中找不到頁面)"
 
 #: ../src/control/xojfile/LoadHandler.cpp:229
 msgid "Document is not complete (maybe the end is cut off?)"
@@ -393,7 +395,7 @@ msgstr "文檔未加載！({1}), {2}"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:24
 msgid "Dotted"
-msgstr ""
+msgstr "虛線"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:101
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:30
@@ -425,13 +427,13 @@ msgstr "繪製矩形"
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:34
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:410
 msgid "Draw Spline"
-msgstr ""
+msgstr "繪製曲線"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:103
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:32
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:408
 msgid "Draw coordinate system"
-msgstr ""
+msgstr "繪製座標系統"
 
 #: ../src/undo/InsertUndoAction.cpp:30
 msgid "Draw stroke"
@@ -439,7 +441,7 @@ msgstr "繪製筆劃"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:91
 msgid "Drawing Type - don't change"
-msgstr ""
+msgstr "繪製類別 - 不要改變"
 
 #: ../src/undo/TextBoxUndoAction.cpp:36
 msgid "Edit text"
@@ -447,7 +449,7 @@ msgstr "編輯文本"
 
 #: ../src/undo/EmergencySaveRestore.cpp:19
 msgid "Emergency saved document"
-msgstr ""
+msgstr "緊急儲存文件"
 
 #: ../src/undo/AddUndoAction.cpp:75 ../src/undo/DeleteUndoAction.cpp:71
 #: ../src/undo/EraseUndoAction.cpp:90
@@ -488,15 +490,15 @@ msgstr "讀入筆劃粗細出錯：{1}"
 
 #: ../src/control/jobs/ImageExport.cpp:104
 msgid "Error save image #1"
-msgstr ""
+msgstr "錯誤儲存圖片 #1"
 
 #: ../src/control/jobs/ImageExport.cpp:119
 msgid "Error save image #2"
-msgstr ""
+msgstr "錯誤儲存圖片 #2"
 
 #: ../src/control/jobs/AutosaveJob.cpp:15
 msgid "Error while autosaving: {1}"
-msgstr ""
+msgstr "自動儲存時發生錯誤：{1}"
 
 #: ../src/util/CrashHandler.cpp:39
 msgid "Error: {1}"
@@ -524,11 +526,11 @@ msgstr "檔案名：{1}"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:458
 msgid "Fill"
-msgstr ""
+msgstr "填滿"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:472
 msgid "Fine"
-msgstr ""
+msgstr "細"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:66
 msgid "Floating Toolbox (experimental)"
