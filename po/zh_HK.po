@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-18 06:41+0000\n"
-"PO-Revision-Date: 2020-02-18 06:43\n"
+"PO-Revision-Date: 2020-03-05 07:58\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Traditional, Hong Kong\n"
 "Language: zh_HK\n"
@@ -18,12 +18,14 @@ msgstr ""
 #: ../src/control/XournalMain.cpp:508
 msgid "\n\n"
 "Will now attempt to run without this file."
-msgstr ""
+msgstr "\n\n"
+"現在將嘗試在沒有此檔案的情況下執行。"
 
 #: ../src/control/XournalMain.cpp:488
 msgid "\n"
 "Will now attempt to run without this file."
-msgstr ""
+msgstr "\n"
+"現在將嘗試在沒有此檔案的情況下執行。"
 
 #: ../src/gui/MainWindow.cpp:630
 msgctxt "Page {pagenumber} \"of {pagecount}\""
@@ -32,11 +34,11 @@ msgstr "頁，共{1}頁"
 
 #: ../src/control/settings/Settings.cpp:100
 msgid "%F-Note-%H-%M"
-msgstr ""
+msgstr "%F-筆記-%H-%M"
 
 #: ../src/gui/dialog/SettingsDialog.cpp:102
 msgid "<b>No devices were found. This seems wrong - maybe file a bug report?</b>"
-msgstr ""
+msgstr "<b>沒有找到任何裝置。可能出錯了 - 要回報錯誤嗎？</b>"
 
 #: ../src/control/XournalMain.cpp:503
 msgid "<span foreground='red' size='x-large'>Missing the needed UI file:\n"
@@ -45,11 +47,16 @@ msgid "<span foreground='red' size='x-large'>Missing the needed UI file:\n"
 "  Not relative\n"
 "  Not in the Working Path\n"
 "  Not in {2}"
-msgstr ""
+msgstr "<span foreground='red' size='x-large'>遺失必須的使用者界面檔案：\n"
+"<b>{1}</b></span>\n"
+"無法在任何位置找到它們。\n"
+"  不在相對位置\n"
+"  不在工作目錄\n"
+"  不在 {2}"
 
 #: ../src/control/XournalMain.cpp:273
 msgid "Absolute path for the audio files playback"
-msgstr ""
+msgstr "用以播放音效檔案的絕對位置"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:399
 msgid "Add/Edit Tex"
@@ -61,11 +68,11 @@ msgstr "所有檔案"
 
 #: ../src/control/pagetype/PageTypeMenu.cpp:197
 msgid "Apply to all pages"
-msgstr ""
+msgstr "套用到所有頁面"
 
 #: ../src/control/pagetype/PageTypeMenu.cpp:188
 msgid "Apply to current page"
-msgstr ""
+msgstr "套用到目前的頁面"
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:27
 #: ../src/control/stockdlg/XojOpenDlg.cpp:112
@@ -78,7 +85,7 @@ msgstr "變數\"{1\"}不能為浮點數，其值為\"{2}\""
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:97
 msgid "Attribute \"{1}\" could not be parsed as double, the value is nullptr"
-msgstr ""
+msgstr "變數\"{1}\"不能為浮點數，其值為 nullptr"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:121
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:140
