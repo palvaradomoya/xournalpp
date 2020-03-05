@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-18 06:41+0000\n"
-"PO-Revision-Date: 2020-03-05 08:28\n"
+"PO-Revision-Date: 2020-03-05 08:53\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Traditional, Hong Kong\n"
 "Language: zh_HK\n"
@@ -534,7 +534,7 @@ msgstr "細"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:66
 msgid "Floating Toolbox (experimental)"
-msgstr ""
+msgstr "浮動工具箱 (實驗功能)"
 
 #: ../src/gui/toolbarMenubar/FontButton.cpp:54
 msgid "Font"
@@ -542,7 +542,7 @@ msgstr "字型"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:433
 msgid "Forward"
-msgstr ""
+msgstr "下一頁"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:364
 msgid "Go to first page"
@@ -554,7 +554,7 @@ msgstr "末頁"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:371
 msgid "Go to next layer"
-msgstr ""
+msgstr "前往下一圖層"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:366
 msgid "Go to page"
@@ -562,11 +562,11 @@ msgstr "跳轉到頁面"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:370
 msgid "Go to previous layer"
-msgstr ""
+msgstr "前往上一圖層"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:372
 msgid "Go to top layer"
-msgstr ""
+msgstr "前往最頂圖層"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:23
 msgid "Graph"
@@ -593,12 +593,12 @@ msgstr "手形工具"
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:68
 msgid "Hide all"
-msgstr ""
+msgstr "全部隱藏"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:59
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:396
 msgid "Highlighter"
-msgstr ""
+msgstr "熒光筆"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:30
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:400
@@ -607,11 +607,11 @@ msgstr "圖片"
 
 #: ../src/control/XournalMain.cpp:224
 msgid "Image file successfully created"
-msgstr ""
+msgstr "圖片檔案成功建立"
 
 #: ../src/control/XournalMain.cpp:271
 msgid "Image output filename (.png / .svg)"
-msgstr ""
+msgstr "圖片匯出檔案名稱 (.png / .svg)"
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:17
 msgid "Images"
@@ -682,7 +682,7 @@ msgstr "品紅"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:353
 msgid "Manage Toolbars"
-msgstr ""
+msgstr "管理工具列"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:83
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:473
@@ -694,7 +694,10 @@ msgid "Missing the needed UI file:\n"
 "{1}\n"
 " .app corrupted?\n"
 "Path: {2}"
-msgstr ""
+msgstr "遺失必須的使用者界面檔案：\n"
+"{1}\n"
+" 。應用程序損毀？\n"
+"路徑： {2}"
 
 #: ../src/undo/MoveUndoAction.cpp:17
 msgid "Move"
@@ -702,7 +705,7 @@ msgstr "移動"
 
 #: ../src/undo/MoveLayerUndoAction.cpp:27
 msgid "Move layer"
-msgstr ""
+msgstr "移動圖層"
 
 #: ../src/undo/SwapUndoAction.cpp:63
 msgid "Move page downwards"
@@ -735,11 +738,11 @@ msgstr "沒有設備"
 #: ../src/pdf/base/XojCairoPdfExport.cpp:117
 #: ../src/pdf/base/XojCairoPdfExport.cpp:155
 msgid "No pages to export!"
-msgstr ""
+msgstr "沒有可匯出的頁面！"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:93
 msgid "Normal drawing"
-msgstr ""
+msgstr "正常繪畫"
 
 #: ../src/plugin/Plugin.cpp:308 ../src/plugin/Plugin.cpp:327
 msgid "OK"
@@ -1247,7 +1250,7 @@ msgstr ""
 
 #: ../src/control/xojfile/LoadHandler.cpp:579
 msgid "Unknown stroke type: \"{1}\", assuming pen"
-msgstr ""
+msgstr "未知的筆畫類別： \"{1}\"，假設爲畫筆"
 
 #: ../src/control/Control.cpp:2351
 msgid "Unsaved Document"
@@ -1263,11 +1266,11 @@ msgstr "垂直間距"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:471
 msgid "Very Fine"
-msgstr ""
+msgstr "極細"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:476
 msgid "Very Thick"
-msgstr ""
+msgstr "極粗"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:20
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:113
