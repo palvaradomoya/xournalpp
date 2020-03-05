@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-18 06:41+0000\n"
-"PO-Revision-Date: 2020-03-05 15:03\n"
+"PO-Revision-Date: 2020-03-05 15:26\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -535,7 +535,7 @@ msgstr "Fine"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:66
 msgid "Floating Toolbox (experimental)"
-msgstr "Strumenti fluttuanti (sperimentale)"
+msgstr "Barra degli strumenti fluttuante (sperimentale)"
 
 #: ../src/gui/toolbarMenubar/FontButton.cpp:54
 msgid "Font"
@@ -543,7 +543,7 @@ msgstr "Carattere"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:433
 msgid "Forward"
-msgstr "Inoltra"
+msgstr "Avanti"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:364
 msgid "Go to first page"
@@ -683,7 +683,7 @@ msgstr "Magenta"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:353
 msgid "Manage Toolbars"
-msgstr "Gestisci Barra degli Strumenti"
+msgstr "Gestisci Barre degli Strumenti"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:83
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:473
@@ -855,7 +855,7 @@ msgstr "Incolla"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:427
 msgid "Pause / Play"
-msgstr "Metti in pausa o riproduci"
+msgstr "Pausa / Riproduci"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:57
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:228
@@ -940,7 +940,7 @@ msgstr "Quadretti"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:21
 msgid "Ruled with vertical line"
-msgstr "Righe, con riga verticale"
+msgstr "Righe con linea verticale"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:409
 msgid "Ruler"
@@ -1067,7 +1067,7 @@ msgstr "Ci dispiace, Xournal++ non può aprire files in remoto al momento\n"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:22
 msgid "Staves"
-msgstr "Moduli"
+msgstr "Righi"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:430
 msgid "Stop"
@@ -1143,11 +1143,11 @@ msgstr "Il file non è un file .xopp valido (Mimetype errato): \"{1}\""
 
 #: ../src/control/xojfile/LoadHandler.cpp:130
 msgid "The file is no valid .xopp file (Version missing): \"{1}\""
-msgstr "Il file non è un file .xopp valido (versione mancante): \"{1}\""
+msgstr "Il file non è un file .xopp valido (Versione mancante): \"{1}\""
 
 #: ../src/control/xojfile/LoadHandler.cpp:143
 msgid "The file is not a valid .xopp file (Version string corrupted): \"{1}\""
-msgstr "Il file non è un file .xopp valido (stringa di versione corrotta): \"{1}\""
+msgstr "Il file non è un file .xopp valido (Stringa di versione corrotta): \"{1}\""
 
 #: ../src/control/LatexController.cpp:307
 msgid "The formula is empty when rendered or invalid."
@@ -1270,7 +1270,7 @@ msgstr "Spazio verticale"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:471
 msgid "Very Fine"
-msgstr "Molto sottile"
+msgstr "Molto fine"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:476
 msgid "Very Thick"
@@ -1359,7 +1359,7 @@ msgstr "Diminuisci Zoom"
 
 #: ../src/gui/toolbarMenubar/ToolZoomSlider.cpp:72
 msgid "Zoom slider"
-msgstr "Cursore zoom"
+msgstr "Slider zoom"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:359
 msgid "Zoom to 100%"
@@ -1396,11 +1396,11 @@ msgstr "tratteggiato"
 
 #: ../src/gui/dialog/PluginDialogEntry.cpp:28
 msgid "default disabled"
-msgstr "predefinito disattivato"
+msgstr "predefinito disabilitato"
 
 #: ../src/gui/dialog/PluginDialogEntry.cpp:28
 msgid "default enabled"
-msgstr "predefinito attivato"
+msgstr "predefinito abilitato"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:251
 msgid "delete stroke"
@@ -1457,7 +1457,7 @@ msgstr "tratto"
 
 #: ../src/util/DeviceListHelper.cpp:108
 msgid "tablet pad"
-msgstr "tastierino tablet"
+msgstr "tavoletta grafica"
 
 #: ../src/undo/AddUndoAction.cpp:103 ../src/undo/DeleteUndoAction.cpp:100
 msgid "text"
@@ -1521,7 +1521,7 @@ msgstr "xournalpp-{1}"
 
 #: ../ui/main.glade:31
 msgid " = Floating Toolbox (experimental) ="
-msgstr " = Strumenti fluttuanti (sperimentale) ="
+msgstr " = Barra degli strumenti fluttuante (sperimentale) ="
 
 #: ../ui/settings.glade:2635 ../ui/settings.glade:2646
 msgid "%"
@@ -1631,8 +1631,8 @@ msgstr "<b>Impostazioni Esportazione Documento</b>\n"
 #: ../ui/main.glade:110
 msgid "<b>Empty Toolbox</b>\n"
 "<i>Menu: View/Toolbars</i>"
-msgstr "<b>Toolbox vuoto</b>\n"
-"<i>Menu: Vista/Toolbar</i>"
+msgstr "<b>Barra degli strumenti vuota</b>\n"
+"<i>Menu: Vista/Barra degli strumenti</i>"
 
 #: ../ui/fillTransparency.glade:79
 msgid "<b>Fill transparency settings</b>\n"
