@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-18 06:41+0000\n"
-"PO-Revision-Date: 2020-03-05 07:58\n"
+"PO-Revision-Date: 2020-03-05 08:07\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Traditional, Hong Kong\n"
 "Language: zh_HK\n"
@@ -94,16 +94,16 @@ msgstr "變數\"{1\"}不能為整數，其值為\"{2}\""
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:114
 msgid "Attribute \"{1}\" could not be parsed as int, the value is nullptr"
-msgstr ""
+msgstr "變數\"{1}\"不能為整數，其值為 nullptr"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:159
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:179
 msgid "Attribute \"{1}\" could not be parsed as size_t, the value is \"{2}\""
-msgstr ""
+msgstr "變數\"{1}\"不能為 size_t，其值為\"{2}\""
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:152
 msgid "Attribute \"{1}\" could not be parsed as size_t, the value is nullptr"
-msgstr ""
+msgstr "變數\"{1}\"不能為 size_t，其值為 nullptr"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:46
 msgid "Attribute color not set!"
@@ -112,19 +112,20 @@ msgstr "顏色未設置"
 #: ../src/control/AudioController.cpp:92
 msgid "Audio folder not set! Recording won't work!\n"
 "Please set the recording folder under \"Preferences > Audio recording\""
-msgstr ""
+msgstr "音效資料夾未設置！錄音無法使用！\n"
+"請於 \"偏好設定 > 錄製音效\" 下設定錄音資料夾"
 
 #: ../src/control/Control.cpp:242
 msgid "Autosave failed with an error: {1}"
-msgstr ""
+msgstr "自動儲存發生錯誤並失敗：{1}"
 
 #: ../src/control/Control.cpp:208
 msgid "Autosave renamed from {1} to {2}"
-msgstr ""
+msgstr "自動儲存由 {1} 被重新命名至 {2}"
 
 #: ../src/control/jobs/AutosaveJob.cpp:44
 msgid "Autosaving to {1}"
-msgstr ""
+msgstr "自動儲存到 {1}"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:365
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:436
@@ -162,7 +163,7 @@ msgstr "改變字型"
 
 #: ../src/undo/FillUndoAction.cpp:79
 msgid "Change stroke fill"
-msgstr ""
+msgstr "改變筆劃色彩"
 
 #: ../src/undo/SizeUndoAction.cpp:104
 msgid "Change stroke width"
@@ -196,11 +197,11 @@ msgstr "未能產生備份檔案！(此檔案應為老版本Xournal所建)"
 
 #: ../src/util/Util.cpp:103
 msgid "Could not create folder: {1}"
-msgstr ""
+msgstr "無法建立資料夾: {1}"
 
 #: ../src/control/LatexController.cpp:85
 msgid "Could not find kpsewhich in PATH; please install kpsewhich and put it on path."
-msgstr ""
+msgstr "無法於 PATH 中找到 kpsewhich；請安裝 kpsewhich 然後置於路徑內。"
 
 #: ../src/control/LatexController.cpp:70
 msgid "Could not find pdflatex in PATH.\n"
