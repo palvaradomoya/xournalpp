@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-18 06:41+0000\n"
-"PO-Revision-Date: 2020-02-18 06:42\n"
+"PO-Revision-Date: 2020-03-18 08:45\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -932,7 +932,7 @@ msgstr "旋转"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:340
 msgid "Rotation Snapping"
-msgstr ""
+msgstr "旋转吸附"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:20
 msgid "Ruled"
@@ -1579,7 +1579,8 @@ msgstr "<b>颜色</b>"
 #: ../ui/pageTemplate.glade:110
 msgid "<b>Configure Xournal++ Template Page</b>\n"
 "This settings will be used if you create a new document"
-msgstr ""
+msgstr "<b>配置 Xournal++ 页面模板</b>\n"
+"创建新文档时将会使用此模板配置"
 
 #: ../ui/pageTemplate.glade:241 ../ui/pageTemplate.glade:282
 msgid "<b>Copy last page</b>\n"
@@ -1965,7 +1966,7 @@ msgstr "启用新的输入系统 (需要重启)"
 
 #: ../ui/settings.glade:1767
 msgid "Enable zoom gestures (requires restart)"
-msgstr ""
+msgstr "启用手势缩放(需要重启)"
 
 #: ../ui/texdialog.glade:72
 msgid "Enter / edit LaTeX Text"
@@ -2119,7 +2120,7 @@ msgstr ""
 
 #: ../ui/main.glade:512
 msgid "Layout"
-msgstr ""
+msgstr "布局"
 
 #: ../ui/settings.glade:2249
 msgid "Left / Right-Handed"
@@ -2313,7 +2314,7 @@ msgstr ""
 
 #: ../ui/settings.glade:2328
 msgid "Scrollbars"
-msgstr ""
+msgstr "滚动条"
 
 #: ../ui/settings.glade:2993
 msgid "Scrolling outside the page"
@@ -2634,7 +2635,7 @@ msgstr "高亮(_H)"
 
 #: ../ui/main.glade:524
 msgid "_Horizontal"
-msgstr ""
+msgstr "水平"
 
 #: ../ui/main.glade:1281
 msgid "_Image"
