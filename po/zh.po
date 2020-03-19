@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-18 06:41+0000\n"
-"PO-Revision-Date: 2020-03-19 10:21\n"
+"PO-Revision-Date: 2020-03-19 11:07\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -1631,7 +1631,7 @@ msgstr ""
 
 #: ../ui/settings.glade:3659
 msgid "<i>Audio recordings are currently stored in a separate folder and referenced from the journal.</i>"
-msgstr ""
+msgstr "<i>录音存储在另一个单独的文件中, 并可以在你的日志中引用.</i>"
 
 #: ../ui/settings.glade:4002
 msgid "<i>Changes take only effect on new recordings and playbacks.</i>"
@@ -1653,7 +1653,8 @@ msgstr ""
 #: ../ui/settings.glade:222
 msgid "<i>If the document already was saved you can find it in the same folder with the extension .autosave.xoj\n"
 "If the file was not yet saved you can find it in your home directory, in ~/.xournalpp/autosave</i>"
-msgstr ""
+msgstr "<i>如果文档已经保存，您可以在相同目录下找到同名的拓展名为.autosave.xoj的自动保存文件\n"
+"如果该文件尚未保存，您可以在您的主目录中找到它，位于~/.xournalpp/autosave</i>"
 
 #: ../ui/settings.glade:2868
 msgid "<i>If you add additional space beside the pages you can choose the area of the screen you would like to work on.</i>"
@@ -1677,7 +1678,7 @@ msgstr "<i>在你的屏幕上放置一个尺子并移动滑动条直到刻度对
 
 #: ../ui/settings.glade:3513
 msgid "<i>Select the tool and Settings if you press the Default Button.</i>"
-msgstr ""
+msgstr "<i>选择按下缺省按钮后的工具和设置</i>"
 
 #: ../ui/settings.glade:1592
 msgid "<i>Specify commands that are called once Hand Recognition triggers. The commands will be executed in the UI Thread, make sure they are not blocking!</i>"
