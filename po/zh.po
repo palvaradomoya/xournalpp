@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-18 06:41+0000\n"
-"PO-Revision-Date: 2020-03-19 11:07\n"
+"PO-Revision-Date: 2020-03-19 11:15\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -2021,7 +2021,7 @@ msgstr "全屏"
 
 #: ../ui/about.glade:281
 msgid "GNU GPLv2 or later"
-msgstr ""
+msgstr "GNU GPLv2 or later"
 
 #: ../ui/settings.glade:3874
 msgid "Gain"
@@ -2033,11 +2033,11 @@ msgstr ""
 
 #: ../ui/settings.glade:2114
 msgid "Global"
-msgstr ""
+msgstr "全局"
 
 #: ../ui/goto.glade:14
 msgid "Go to Page"
-msgstr ""
+msgstr "转到页面"
 
 #: ../ui/settings.glade:3104
 msgid "Grid snapping tolerance"
