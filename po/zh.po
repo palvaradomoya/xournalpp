@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-18 06:41+0000\n"
-"PO-Revision-Date: 2020-03-19 09:33\n"
+"PO-Revision-Date: 2020-03-19 09:59\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -1067,7 +1067,7 @@ msgstr "对不起，Xournal++ 目前无法打开远程目录里的文件。\n"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:22
 msgid "Staves"
-msgstr ""
+msgstr "五线谱纸"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:430
 msgid "Stop"
@@ -1386,11 +1386,11 @@ msgstr "光标"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:236
 msgid "dash-/ dotted"
-msgstr ""
+msgstr "点划线"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:233
 msgid "dashed"
-msgstr ""
+msgstr "横虚线"
 
 #: ../src/gui/dialog/PluginDialogEntry.cpp:28
 msgid "default disabled"
@@ -1406,7 +1406,7 @@ msgstr "删除笔划"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:239
 msgid "dotted"
-msgstr ""
+msgstr "点虚线"
 
 #: ../src/undo/AddUndoAction.cpp:86 ../src/undo/DeleteUndoAction.cpp:83
 msgid "elements"
@@ -1455,7 +1455,7 @@ msgstr "笔划"
 
 #: ../src/util/DeviceListHelper.cpp:108
 msgid "tablet pad"
-msgstr ""
+msgstr "数位板"
 
 #: ../src/undo/AddUndoAction.cpp:103 ../src/undo/DeleteUndoAction.cpp:100
 msgid "text"
