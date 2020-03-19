@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-18 06:41+0000\n"
-"PO-Revision-Date: 2020-03-19 09:59\n"
+"PO-Revision-Date: 2020-03-19 10:12\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -1599,7 +1599,8 @@ msgstr "<b>缺省</b>"
 #: ../ui/exportSettings.glade:90
 msgid "<b>Document export settings</b>\n"
 "Select pages to export"
-msgstr ""
+msgstr "<b>文档导出设置</b>\n"
+"选择要导出的页面"
 
 #: ../ui/main.glade:110
 msgid "<b>Empty Toolbox</b>\n"
