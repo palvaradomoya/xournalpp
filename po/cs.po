@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-18 06:41+0000\n"
-"PO-Revision-Date: 2020-02-18 06:43\n"
+"PO-Revision-Date: 2020-03-19 12:36\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -51,7 +51,7 @@ msgstr "<span foreground='red' size='x-large'>Chybí požadovaný soubor uživat
 "<b>{1}</b></span>\n"
 "Nemohl být nalezen na žádném místě.\n"
 "  Nebyl nalez v relativní cestě\n"
-"  Nebyl nalezen v pracovní cestě\n"
+"  Nebyl nalezen v Pracovní Cestě\n"
 "  Nebyl nalezen v {2}"
 
 #: ../src/control/XournalMain.cpp:273
@@ -428,7 +428,7 @@ msgstr "Kreslit obdélník"
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:34
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:410
 msgid "Draw Spline"
-msgstr ""
+msgstr "Kreslit čáru"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:103
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:32
