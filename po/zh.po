@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-18 06:41+0000\n"
-"PO-Revision-Date: 2020-03-19 11:15\n"
+"PO-Revision-Date: 2020-03-19 11:22\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -2131,7 +2131,7 @@ msgstr ""
 
 #: ../ui/about.glade:265
 msgid "License"
-msgstr ""
+msgstr "许可协议"
 
 #: ../ui/settings.glade:594
 msgid "Load / Save"
@@ -2397,7 +2397,7 @@ msgstr "标准"
 
 #: ../ui/settings.glade:3681 ../ui/settings.glade:3718
 msgid "Storage Folder"
-msgstr ""
+msgstr "保存位置"
 
 #: ../ui/settings.glade:1333
 msgid "Stylus"
@@ -2514,7 +2514,7 @@ msgstr ""
 
 #: ../ui/settings.glade:2661
 msgid "Zoom Speed"
-msgstr ""
+msgstr "缩放速度"
 
 #: ../ui/main.glade:633
 msgid "_1 Column"
